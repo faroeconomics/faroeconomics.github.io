@@ -1,0 +1,33 @@
+To do:
+
+Have the post recognize standard Github markdown. Maybe a gem is missing.
+
+Adjust size of figures in blog
+
+Cosmetics:
+
+1. Word cloud/tags [DONE]
+2. Data repository [NOT NOW]
+3. Paper reviews [NOT ANYMORE / HABLAR CON LG]
+4. Fix template of Tags page. Add effects to text, icons to categories, match
+color palette. Based on http://codinfox.github.io.
+5. Add twitter handles to authors names [DONE]
+6. Articulos antiguos y sin imagenes [DONE]
+7. Cambiar fecha y Autor debajo de titulo en blog/index.html [DONE]
+
+Pending:
+
+Temas relacionados en blog.html sidebar [DONE]
+
+Los mas leidos todavia no es automatico.
+
+
+Que hacer con las bibliografias, pies de pagina
+
+
+Urgent:
+Main page 3 highlighted articles
+Share buttons inside posts
+Google Analytics for Posts?
+Post: Nuestra mision
+Post: Guia Editorial 

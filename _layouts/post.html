@@ -1,0 +1,84 @@
+---
+layout: default
+---
+<!-- Main -->
+	<!-- <div id="main">
+		<div id="content" class="container">
+			<div class="row">
+				<section class="8u -2u">
+					<a href="{{ site.prefix }}{{ page.url }}" class="image full"><img src="/assets/{{ page.featured }}" alt=""></a>
+					<header>
+						<h2>{{ page.title }}</h2>
+					</header>
+					{{ page.content }}
+				</section>
+			</div>
+		</div>
+	</div> -->
+
+
+
+	<div id="main">
+		<div class="container">
+			<div class="row">
+
+		<!-- Content  -->
+		<div id="content" class="8u skel-cell-important">
+				<section class=article>
+					<!-- <a href="{{ site.prefix }}{{ page.url }}" class="image full"><img src="/assets/{{ page.featured }}" alt=""></a> -->
+					<header>
+						<h2>{{ page.title }}</h2>
+
+						<!--  Loop over authors in article -->
+						<span class="byline">
+							{% assign authorCount = page.authors | size %}
+							{% if authorCount == 0 %}
+    							No author
+							{% elsif authorCount == 1 %}
+							{% assign firstAuthor = page.authors | first %}
+    							{{ site.authors[firstAuthor].name }}
+									<!-- <a href="https://twitter.com/{{ site.authors[firstAuthor].twitter }}" itemprop="sameAs">
+            			<i class="fa fa-fw fa-twitter" aria-hidden="true"></i>
+          				</a> -->
+									<a href="www.twitter.com/{{ site.authors[firstAuthor].twitter }}">
+									  <i class="fa fa-twitter-square fa-lg"></i>
+									</a>
+
+							{% else %}
+    							{% for author in page.authors %}
+        							{% if forloop.first %}
+            							{{ site.authors[author].name}}
+													<a href="https://twitter.com/{{ site.authors[author].twitter }}" itemprop="sameAs">
+														<i class="fa fa-twitter-square fa-lg"></i>
+				          				</a>
+        							{% elsif forloop.last %}
+            							| {{ site.authors[author].name }}
+													<a href="https://twitter.com/{{ site.authors[author].twitter }}" itemprop="sameAs">
+														<i class="fa fa-twitter-square fa-lg"></i>
+				          				</a>
+        							{% else %}
+            							| {{ site.authors[author].name }}
+													<a href="https://twitter.com/{{ site.authors[author].twitter }}" itemprop="sameAs">
+														<i class="fa fa-twitter-square fa-lg"></i>
+													</a>
+        							{% endif %}
+    							{% endfor %}
+						 {% endif %}
+						 <p>
+							 <h4>{{ page.date | date_to_string }} </h4>
+						 </p>
+
+					</span>
+
+					<!-- <h4>{% include share-page.html %}</h4> -->
+
+					</header>
+					{{ page.content }}
+				</section>
+			</div>
+			<!-- {% include share-page.html %} -->
+			{% include sidebar.html %}
+			<!--  -->
+		</div>
+	</div>
+</div>

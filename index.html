@@ -1,1 +1,109 @@
-Hello World
+---
+title: El Faro
+layout: default
+---
+<!-- Featured -->
+<div id="featured">
+	<div class="container">
+		<header>
+			<h2>Bienvenido</h2>
+		</header>
+		<p> <strong>EL FARO</strong> es un blog de economía que busca acercar la teoría al debate público. Nuestro objetivo es brindar un espacio de discusión independiente apoyados en evidencia y con un enfoque positivo sobre diferentes temas relevantes para el diseño de politicas públicas en América Latina.
+</a></p>
+		<hr />
+
+		<header>
+			<h2>Artículos Recientes</h2>
+		</header>
+
+		<div class="row">
+
+			{% for post in site.posts offset: 0 limit: 3 %}
+				<!-- <li><a href="{{ site.prefix }}{{ post.url }}">{{post.title}}</a></li> -->
+
+				<section class="4u">
+					<a href="{{ site.prefix }}{{ post.url }}" class="image full"><img src="{{ site.prefix }}/assets/{{post.featured }}" alt=""></a>
+					<header>
+						<ul><p>
+							<a href="{{ site.prefix }}{{ post.url }}">{{post.title}}</a></ul>
+						</p>
+					</header>
+					<ul>{{ post.excerpt | remove: '<p>' | remove: '</p>'  | truncatewords:50 }}</ul>
+				</section>
+			{% endfor %}
+
+
+		</div>
+
+		<header>
+					<a href="/blog" class="button button-style1">Leer más artículos</a>
+		</header>
+
+		<hr />
+
+		<div class="row">
+			<section class="4u">
+				<span class="pennant"><span class="fa fa-lightbulb-o"></span></span>
+				<h3>Nuestra misión </h3>
+				<p> Ser un referente de información y evidencia de artículos en economía que acercan la teoría al debate público.</p>
+				<a href="#" class="button button-style1">Más detalles</a>
+			</section>
+			<section class="4u">
+				<span class="pennant"><span class="fa fa-file"></span></span>
+				<h3>Envia tus articulos</h3>
+				<p>Tienes un idea para compartir? Lee nuestra guía editorial para que tu artículo sea publicado en El Faro.</p>
+				<a href="#" class="button button-style1">Más detalles</a>
+			</section>
+			<section class="4u">
+				<span class="pennant"><span class="fa fa-envelope"></span></span>
+				<h3>Suscribete</h3>
+				<p>Escribenos para recibir notificacions sobre nuevas publicacions. Tambien envianos preguntas y sugerencias.</p>
+				<a href="contactform" class="button button-style1">Más detalles</a>
+			</section>
+
+
+		</div>
+
+	</div>
+</div>
+
+<!-- Main -->
+	 <!-- <div id="main">
+		<div id="content" class="container">
+
+			<div class="row">
+				<section class="6u">
+					<a href="#" class="image full"><img src="/assets/images/pic01.jpg" alt=""></a>
+					<header>
+						<h2>Mauris vulputate dolor</h2>
+					</header>
+					<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</p>
+				</section>
+				<section class="6u">
+					<a href="#" class="image full"><img src="/assets/images/pic02.jpg" alt=""></a>
+					<header>
+						<h2>Mauris vulputate dolor</h2>
+					</header>
+					<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</p>
+				</section>
+			</div>
+
+			<div class="row">
+				<section class="6u">
+					<a href="#" class="image full"><img src="/assets/images/pic03.jpg" alt=""></a>
+					<header>
+						<h2>Mauris vulputate dolor</h2>
+					</header>
+					<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</p>
+				</section>
+				<section class="6u">
+					<a href="#" class="image full"><img src="/assets/images/pic04.jpg" alt=""></a>
+					<header>
+						<h2>Mauris vulputate dolor</h2>
+					</header>
+					<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</p>
+				</section>
+			</div>
+
+		</div>
+	</div> -->

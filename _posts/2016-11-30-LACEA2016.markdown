@@ -1,0 +1,31 @@
+---
+layout: post
+title: 'LACEA/LAMES 2016: are we breaking the glass ceiling?'
+date: '2016-11-30T07:32:00.002-08:00'
+authors:
+- pablocuba
+- luisgonzales
+featured: images/Teaser-2016-11-30.png
+tags: [Internacional]
+---
+Marie Curie was one of the greatest scientists of the 20th century. She was the first woman to win a Nobel Prize and the only woman to receive this honor twice for her contributions to two separate fields. She was undeniably a giant. Nonetheless, it is less known that despite her achievements she was denied membership to the French Academy of Sciences because she was a woman. A lot has transpired and evolved since this sordid incident in 1911. However, glass ceilings constraining the role of women in the advancement of science persist.
+
+Economics is no stranger to such situation, hence it is important to ask if the discipline is more inclusive and open to women participation? And what are the glass ceilings in our profession? We can gain some insights about these questions analyzing women participation in the largest and more important conference of economics in our region: the meetings of the Latin American and Caribbean Economics Association (LACEA) and the Latin American Econometric Society (LAMES). These conferences started in 1996 and 2001 respectively and each year visit a different city, mainly within Latin America, and often run in parallel. In 2016 both conferences were jointly hosted at Universidad EAFIT in Medellin Colombia with an impeccable organization.
+
+We collected information from the conference program from its 2000 and 2016 editions and counted the number of papers presented in regular sessions[1]. In 2000 a total of 231 papers were presented. However, only 28 were co-authored with at least a woman, while 13 were co-authored only by women. In contrast, for the 2016 meetings we counted a total of 364 papers with 107 having at least one woman as co-author and 48 co-authored only by women. This shows a marked improvement of women's participation and a good sign that economics as a discipline is moving in a direction of greater inclusion.
+
+Another surprising feature of the data we gathered relates to the field in which women participate more. Their research seems to be concentrated in very specific areas, for example in figure below we show the distribution of papers co-authored by women using the JEL classification of each article. Broadly speaking women seem to be more involved in research related to microeconomic oriented fields (applied microeconomics/development/environmental economics). Out of all the papers with at least one woman as co-author, 83 fell under the big umbrella of microeconomics. The remainder 24 papers were related to topics broadly related to the field of macroeconomics (monetary economics/international and financial economics). At face value this might just reflect women’s particular preferences for certain topics or a particular focus of the conference itself. On the other hand this evidence suggests the presence of some barriers for women to participate more actively in macroeconomics. The truth is that we can’t know unless we keep better track of women participation and their opportunities in different fields.
+
+<iframe width="780" height="500" frameborder="0" scrolling="no" src="//plot.ly/~faro/115.embed"></iframe>
+
+# Collecting better data
+
+One noticeable effort to collect better data on the advancement of women in economics is the Committee on the Status of Women in the Economics Profession (CSWEP) established in 1971 by the American Economic Association. The CSWEP follows and promote career development for female economics in U.S. universities. The CSWEP yearly report indicates that the share of women receiving a Ph.D. from U.S. universities has increased steadily from less than 8% in 1972 to 35% in 2015. Similarly the fraction of women in tenure/tenure track positions has increased from 7% to 19% during the same time period. This shows great progress of women participation and the CSWEP continues to push different programs to help women advance their career across different fields. In Latin America we need similar efforts to keep track and continue to improve on the progress we have made.
+
+# Taking stock
+
+The recent experience of the 21st Lacea/Lames conference is a reflection of the achievements that Latin America and their economists have attained in terms of creating greater inclusion for women into economic research. Continuing support to women aspiring to attend PhD programs and supporting the development of female professors should be top priorities of Latin American universities. Events like Lacea/Lames are not only a great venue for learning and sharing knowledge, but also an opportunity to remember that we stand on the shoulders of giants like Madam Curie. Lacea/Lames are an example of how we can help shatter the glass ceiling in our societies by making our profession more inclusive and supportive of women participation.
+
+We thank Gustavo Canavire for comments and suggestions.
+
+[1] In 2000 we have information only for the LACEA meetings because that year both conferences were not organized jointly. We were not able to find programs for earlier meetings. In 2016 out of the 364 papers, 220 corresponded to the LACEA meeting.

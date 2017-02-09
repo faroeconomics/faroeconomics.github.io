@@ -1,0 +1,94 @@
+---
+layout: default
+title: Artículos por tema
+---
+
+<div id="main">
+  <div id="content" class="container">
+
+<!-- Categorias -->
+{% comment%}
+Here we generate all the categories.
+{% endcomment%}
+
+{% assign rawcats = "" %}
+{% for post in site.posts %}
+{% assign tcats = post.categories | join:'|' | append:'|' %}
+{% assign rawcats = rawcats | append:tcats %}
+{% endfor %}
+
+{% assign rawcats = rawcats | split:'|' | sort %}
+
+{% assign cats = "" %}
+
+{% for cat in rawcats %}
+{% if cat != "" %}
+
+{% if cats == "" %}
+{% assign cats = cat | split:'|' %}
+{% endif %}
+
+{% unless cats contains cat %}
+{% assign cats = cats | join:'|' | append:'|' | append:cat | split:'|' %}
+{% endunless %}
+{% endif %}
+{% endfor %}
+
+<br/>
+
+  <header>
+    <h2 class="page-title">
+      <a href="/blog"></a>{{ page.title }}
+    </h2>
+    </header>
+
+<br/>
+
+<div class="posts">
+<p>
+
+{% for ct in cats %}
+<a href="#{{ ct | slugify }}" class="codinfox-category-mark"> {{ ct }} </a> &nbsp;&nbsp;
+{% endfor %}
+<a href="#no-category" class="codinfox-category-mark" > No Category </a> &nbsp;&nbsp;
+</p>
+
+{% for ct in cats %}
+<h1 id="{{ tag | slugify }}">{{ ct }}</h1>
+<ul class="codinfox-category-list">
+
+<div class="row">
+  {% for post in site.posts%}
+   {% if post.categories contains ct %}
+    <section class="3u">
+      <h6><a href="{{ site.prefix }}{{ post.url }}">{{post.title}}</a></h6>
+      <a href="{{ site.prefix }}{{ post.url }}" class="image full"><img src="{{ site.prefix }}/assets/{{post.featured }}" alt="" height="185" width="30"></a>
+    </section>
+    {% endif %}
+  {% endfor %}
+</div>
+
+{% endfor %}
+
+
+<!-- <h2 id="no-category">No Category</h2>
+<ul class="codinfox-category-list">
+  {% for post in site.posts %}
+  {% unless post.category %}
+  <li>
+    <h3>
+      <a href="{{ post.url }}">
+        <strong>{{ post.title }}</strong> |
+        <small>{{ post.date | date_to_string }}</small> | {{site.authors[post.author].name}}
+      </a>
+    </h3>
+  </li>
+  {% endunless %}
+  {% endfor %}
+</ul> -->
+
+</div>
+</section>
+
+  </div>
+</div>

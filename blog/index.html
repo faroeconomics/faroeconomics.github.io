@@ -1,0 +1,67 @@
+---
+title: Blog
+layout: default
+---
+
+<div id="main">
+  <div class="container">
+    <div class="row">
+
+  <!-- Content  -->
+    <div id="content" class="8u skel-cell-important">
+      {% for post in paginator.posts %}
+        <section class="image">
+        <a href="{{ site.prefix }}{{ post.url }}" class="image small"><img src="/assets/{{ post.featured }}" alt="post.title"></a>
+        <header>
+          {% assign authorCount = post.authors | size %}
+          <!-- <p class="posted"> <strong>{{post.title}}</strong> | {{ post.date | date_to_string }}  |  {{site.authors[post.authors].name }} | {{authorCount}}</p> -->
+
+          {% if authorCount == 0 %}
+            <p class="posted"> <strong>{{post.title}}</strong></p>
+            <p class="posted>"> | {{ post.date | date_to_string }} </p>
+          {% elsif authorCount == 1 %}
+          {% assign firstAuthor = post.authors | first %}
+          <p class="posted"> <strong>{{post.title}}</strong> </p>
+          <p class="posted>"> {{ post.date | date_to_string }}  |  {{site.authors[firstAuthor].name }}</p>
+          {% else %}
+          <p class="posted"> <strong>{{post.title}}</strong> </p>
+          <p class="posted">  {{ post.date | date_to_string }}  |
+              {% for author in post.authors %}
+                  {% if forloop.first %}
+                      {{ site.authors[author].name}}
+                  {% elsif forloop.last %}
+                      y {{ site.authors[author].name }}
+                  {% else %}
+                  , {{ site.authors[author].name }}
+                  {% endif %}
+              {% endfor %}
+          </p>
+         {% endif %}
+
+
+          <!-- <p><a href="{{ site.prefix }}{{ post.url }}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</a></p> -->
+        </header>
+        <p> {{ post.excerpt }} </p>
+      </section>
+      {% endfor %}
+    </div>
+    {% include sidebar_blog.html %}
+  </div>
+
+  <!-- Pagination links -->
+  <div class="pagination">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+  <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+  <span class="next ">Next</span>
+  {% endif %}
+  </div>
+
+</div>
+</div>

@@ -1,0 +1,106 @@
+# External gems
+gems:
+  - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-sitemap
+  - jekyll-paginate
+
+
+name: Faro
+description: Linear template for Jekyll
+paginate: 10
+
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM          # this is a support for GitHub Flavored Markdown
+  parse_block_html: true
+paginate: 4
+paginate_path: "blog/page:num/"
+
+# Site wide settings
+twitter_username: Faro_economics
+
+
+# Authors
+authors:
+ luisgonzales:
+   name: Luis E. Gonzales Carrasco
+   display_name: Luis
+   email: lwgonzal@uc.cl
+   twitter: LuisEdwinG
+ pablocuba:
+   name: Pablo Cuba Borda
+   display_name: Pablo
+   email: pablo.a.cubaborda@frb.gov
+   web: http://www.pcubaborda.net
+   twitter: pcubab
+ luisandpablo:
+    name: Pablo Cuba Borda y Luis E. Gonzales Carrasco
+    display_name: PabloLuis
+ patriciay:
+    name: Patricia Yañez Pagans
+    display_name: Patricia
+    email: yanezpagans@wisc.edu
+ fabianc:
+    name: Fabian Chahin
+    display_name: Fabin
+    email: FChahin@bnb.com.bo
+ horaciov:
+    name: Horacio Valencia
+    display_name: Horacio
+    email: jvalencia@iadb.org
+ waltermartinez:
+    name: Walter Martinez
+    display_name: Walter
+    email: walticomartinez@gmail.com
+ jamorales:
+    name: Juan Antonio Morales
+    display_name: Juan
+    email: jamorales@mpd.ucb.edu.bo
+ hsolminihac:
+    name: Hernan de Solminihac
+    display_name: Hernan
+    email: hsolmini@ing.puc.cl
+ juanbravo:
+    name: Juan Bravo
+    display_name: Juan
+    email: jpbravoj@uc.cl
+ rodrigocerda:
+    name: Rodrigo Cerda
+    display_name: Rodrigo
+    email: rcerdanj@uc.cl
+ ricardogonzalez:
+    name: Ricardo Gonzalez
+    display_name: Ricardo
+    email: ricardo.ignacio.gonzalez@gmail.com
+ alvarosilva:
+     name: Alvaro Silva
+     display_name: Alvaro
+     email: alsilvau@uc.cl
+ josevalente:
+     name: José Tomás Valente
+     display_name: Jose
+     email: jtvalent@uc.cl
+
+ mauriciovargas:
+     name: Mauricio Vargas
+     display_name: Mauricio
+
+ carloszapata:
+      name: Carlos Rodrigo Zapata
+      display_name: Carlos
+      email: carlosrodrigozapata@gmail.com
+ juanzuleta:
+      name: Juan Carlos Zuleta
+      display_name: Juan
+      email: jczuleta@gmail.com
+ joseperes:
+      name: Jose Alejandro Peres-Cajías
+      display_name: Jose
+      email: joseperescajias@gmail.com
+ pablomendieta:
+      name: Pablo Mendieta
+      display_name: Pablo Mendieta
+      email: pablo.mendieta@cainco.org.bo

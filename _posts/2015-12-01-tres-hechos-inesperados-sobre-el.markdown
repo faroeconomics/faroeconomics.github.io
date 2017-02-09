@@ -1,0 +1,37 @@
+---
+layout: post
+title: Tres hechos inesperados sobre el salario de los jóvenes
+date: '2015-12-01T13:00:00.000-08:00'
+authors:
+- horaciov
+published: false
+featured: images/Teaser-2015-12-01.png
+categories:
+- Empleo y Demografía
+- Microeconomía
+- Desarrollo Económico 
+tags: [Bolivia]
+---
+
+¿Recuerdas si tu primer salario o tu primer empleo fueron como esperabas cuando te graduaste? Lo más probable es que no tuviera las características que habías imaginado. Lamentablemente, esto le sucede a muchos jóvenes que concluyen su formación universitaria y deben salir al mercado laboral a enfrentar situaciones y condiciones que no esperaban durante su formación. Si adicionalmente consideramos la importancia del primer trabajo sobre la trayectoria laboral, el llamado efecto cicatriz, el problema del desfase de expectativas tiene consecuencias no solo de corto plazo.
+
+En esta línea, con datos obtenidos a través de la encuesta de demanda del mercado laboral en Bolivia 2014, se recolectó información de estudiantes universitarios acerca de sus perspectivas de ingreso a uno y cinco años una vez finalizada su formación. Con estas averiguaciones, se contrastó lo que los estudiantes esperan obtener con aquello que el mercado ofrecía a jóvenes con educación universitaria en las edades esperadas a 1 y 5 años de terminada su formación.
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/501.embed"></iframe>
+
+El estudio, nos descubre estos tres hechos principales:
+
+1. El primer salario es un 10% menor al esperado
+Según lo reportado, el salario esperado por un estudiante a un año de concluida su formación es, en promedio, un 10% mayor en relación al salario real ofrecido en el mercado. En lo que se refiere a la varianza, mientras que los estudiantes esperan obtener un salario entre 1,500 y 5,000 bolivianos, la realidad es que muchos de estos trabajarían sin remuneración y para aquellos que consigan un salario superior al promedio, obtendrían un 15% menos que sus expectativas.
+
+2. A los cinco años, el salario sólo mejora un 15%
+En cuanto a la comparación sobre los retornos esperados a 5 años de haber concluido la universidad, la situación no mejora. Mientras los estudiantes esperan incrementar sus ingresos en un 130% con relación al primer año, la realidad es que el ingreso se incrementaría en tan solo el 15% (llegando a los niveles esperados al finalizar el primer año) y estos obtendrían menos de la mitad de lo que esperan ganar. Más aún, a 5 años de finalizada la formación, muchos todavía ganarían por debajo del salario mínimo y el 90% estaría por debajo del promedio esperado.
+
+3. El primer salario tiene efectos en el largo plazo
+Como consecuencia de estas diferencias, muchos jóvenes no encontrarán el empleo que esperan y permanecerán en el desempleo. Posteriormente, ya desalentados, reducirán sus expectativas de ingreso y empleabilidad, no solo de corto plazo, sino también de mediano plazo. Esto implica que, dadas las circunstancias, tomarán el empleo que puedan, que en definitiva acabará determinando su trayectoria laboral y los retornos a su educación. En Bolivia, esto se traduce en que los jóvenes tienen una tasa de desempleo tres veces mayor y en que la mitad trabajen en empleos informales.
+
+Si bien todos estos datos muestran lo complicada que puede ser la realidad para los nuevos profesionales, imaginémonos cuán más difícil es esta situación para aquellos jóvenes que no pueden acceder a una formación universitaria.
+
+Desde el BID estamos trabajando para mejorar esta situación poniendo énfasis en la necesidad de integrar las habilidades aprendidas durante la formación con aquellas requeridas por el sector productivo. Así también, estamos apoyando a distintos países para mejorar los sistemas de intermediación laboral enfocados a los jóvenes, ya que potenciar los servicios de empleo permite reducir el tiempo de búsqueda y generar opciones de mejores trabajos para los jóvenes. Sin embargo, todavía queda un largo camino por recorrer. Les invito a comentar sus experiencias y su visión sobre las posibles soluciones a este problema que se replica en varios países de la región.
+
+Publicado en: IADB Blogs: Factor trabajo Mejores Empleos para el desarrollo

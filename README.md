@@ -1,1 +1,1 @@
-# faroeconomics.github.io
+# Hello World
