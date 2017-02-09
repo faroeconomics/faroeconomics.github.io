@@ -974,6 +974,18 @@
 	{
 	}
 
+	#sidebar {
+		position: -webkit-sticky;
+	  position: sticky;
+		overflow:auto;
+		/*padding-top: 2.50em;*/
+		/*right: 100px;
+    height:100%;
+    width:370px;
+    top:450px;*/
+	  top: 15px;
+	}
+
 	#sidebar h2
 	{
 		display: block;
