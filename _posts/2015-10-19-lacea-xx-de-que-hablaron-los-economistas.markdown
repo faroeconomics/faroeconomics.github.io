@@ -7,8 +7,8 @@ authors:
 - luisgonzales
 featured: images/Teaser-2015-10-19.png
 categories:
-- Conferenciqs y Workshops
-- Desarrollo Económico 
+- Conferencias y Workshops
+- Desarrollo Económico
 tags: [Internacional]
 ---
 
@@ -22,11 +22,16 @@ Un ejemplo destacable del esfuerzo colectivo de los economistas de la región es
 
 Para responder estas preguntas usamos el listado de documentos de trabajo presentados durante la conferencia. Usando la base de datos del repositorio digital LACER-LACEA, recopilamos los títulos y el nombre de los autores de 231 de los mas de 300 documentos presentados. Usando las palabras que aparecen en los títulos de dichos documentos construimos las frecuencias absolutas de los diferentes términos.  También recopilamos los metadatos disponibles de cada uno de los documentos y recolectamos el campo que describe el tema de investigación usando una o más palabras claves. En total recopilamos 931 descripciones de los temas y las reclasificamos usando el sistema de clasificación del Journal of Economic Literature[1] (JEL). En lo posible mantuvimos únicamente las palabras claves que permiten asociar claramente un tema con su clasificación JEL. Cada descripción fue asociada a una categoría JEL y eliminamos las descripciones ambiguas.[2]  Los títulos y las descripciones de los documentos nos permiten analizar de manera general cuales son los temas que ocupan la agenda de investigación económica y las direcciones en las cuales dicha investigación está avanzando.
 
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/259.embed"></iframe>
+</div>
+
+
 En el panel (a) de la siguiente figura mostramos la frecuencia de las palabras que aparecen en títulos de los documentos. Para facilitar el análisis agrupamos algunas palabras cuyo significado está relacionado. Por ejemplo, las palabras “sostenibilidad” y “desarrollo” se agrupan dentro la descripción general de “desarrollo”. La palabra con mayor frecuencia es “evidencia” con (48) apariciones. Este resultado es interesante y sugiere que en general las investigaciones estuvieron orientadas a sustentar sus hipótesis o teorías en base a observaciones y resultados experimentales. Esta es una señal muy importante en el campo de la economía y resalta el renovado enfoque que tiene la disciplina con un énfasis hacia la medición y el uso de métodos cuantitativos para el análisis económico a través de datos. ¡Claramente estas son buenas noticias!
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/259.embed"></iframe>
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/274.embed"></iframe>
-
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/120.embed"></iframe>
+</div>
 
 Las siguiente palabras con mayores repeticiones son “efecto” (28), “desarrollo” (25), “educación” (24), “salud” (24), “empleo” (22), “mercados” (22), “violencia” (19). La mayoría de estas palabras guarda una relación más estrecha con temas microeconómicos, lo que es alentador pues refleja el rápido crecimiento de áreas de investigación en las cuales prima un mayor énfasis en comprender las particularidades del comportamiento individual. Además es refrescante observar que pensar en economía no quiere decir pensar solamente en proyecciones de crecimiento económico y temas de coyuntura.
 

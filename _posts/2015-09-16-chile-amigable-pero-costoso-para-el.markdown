@@ -19,7 +19,9 @@ Cuando la inflación anual se encuentra fuera de la meta fijada por el Banco Cen
 
 Primero,  considerando un hogar conformado exclusivamente por adultos de 60 o más años y siguiendo los criterios del IPC general; el IPC-AM e IPC AMV muestran que es muy distinta  la ponderación que los hogares de adultos mayores otorgan a las divisiones de productos, y que la evolución de los precios las afectó de modo diferente.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/172.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/172.embed"></iframe>
+</div>
 
 Un ejemplo de lo anterior es la división salud, mientras el promedio de los hogares otorga un 6.4% de su gasto a esta división, los hogares de adultos mayores destinan el doble, vale decir un 12.1% de su presupuesto mensual para la compra de medicamentos, atenciones de salud y otros gastos asociados a la salud. Más aún, esta división explica casi un punto porcentual (0.8 p.p.) del total de la inflación en un año, solo después de alimentos que explica casi dos puntos porcentuales (1.8 p.p.). Estas cifras se comparan con la incidencia en el promedio general de hogares de (0.4 p.p.) y (1.6 p.p) respectivamente. Evidentemente la ponderación a mayor salud es diferente debido a la etapa en la vida que tienen estos hogares. La condición de vulnerabilidad – que afecta tanto a adultos mayores como a hogares más jóvenes – se caracteriza por dar una ponderación mayor a la división alimentos. Por ejemplo, entre los adultos mayores, los vulnerables gastan el 35,1% de su presupuesto en alimentos, mientras que el conjunto de todos los adultos mayores gasta  20.9% apenas un 1.9% más que el promedio de los hogares en general.
 

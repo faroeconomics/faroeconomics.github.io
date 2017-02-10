@@ -17,7 +17,10 @@ El avance tecnológico es conocido también como productividad total de factores
 
 En dicho trabajo,  se contruye 11 medidas alternativas de productividad que además de tomar en cuenta los factores clásicos de producción (capital y trabajo) también tomamos en cuenta el ajuste por la ley del cobre, el consumo energético y eléctrico, el ajuste de las remuneraciones de empleo. La ventaja de este enfoque es la diferenciación en el efecto de cada variable en la dinámica de la productividad. A continuación presentamos un resumen de nuestros principales resultados.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/96.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/96.embed"></iframe>
+</div>
+
 
 En la figura 1, se observan las 11 medidas de productividad total de factores para la minería en Chile. Las medidas tradicionales (1 y 2) consideran la contribución bruta de capital y trabajo,  diferenciando las contribución entre una participación del capital estimada econométricamente por los autores en 2014 de 61% y la misma participación estimada contablemente de 84.2%[3]. En ambas medias se constata una caída de la productividad de 3.1% y 6.1% respectivamente para 2015. Tomando las medidas tradicionales y ajustándolas por el uso de capital se presentan las siguientes medidas (3 a 5) que comprenden: Ajuste por la ley de cobre (3), Consumo energético (4) y Consumo eléctrico (5). Dada la importancia de la ley del mineral, al ajustarla por su desempeño, manteniendo lo demás como lo calculado tradicionalmente, se constata que por primera vez después de más de una década, la PTF tiene una variación positiva de 6.5% para 2015. Dicho en otras palabras, si se descuenta la incidencia de la ley del mineral en la producción, la productividad hubiera crecido. En contraste, las otras medidas de ajuste de capital, por si solas, confirman la tendencia negativa antes mostrada con variaciones 6% y 4.3% respectivamente. La medida 6 presenta el ajuste del empleo por remuneraciones con un resultado similar a las previas variando negativamente 6.2%.
 
@@ -25,7 +28,7 @@ Asimismo, las medidas restantes (7 a 11) muestran la evolución de la productivi
 
 En resumen, al año 2015, se evidencia marginalmente una recesión en la actividad minera de Chile, ya que la tasa de crecimiento anual fue negativa de 0.2%, la más baja desde 2011. Entre los determinantes de esta caída se encuentran factores externos, tales como: i) la desaceleración del crecimiento del principal consumidor de cobre China, que representa el 40% del consumo mundial e importa el 26% de las exportaciones chilenas, principalmente cobre; ii) La caída del precio del mineral, que sigue la tendencia de la caída de precios del petróleo desde julio de 2014 y que acumula desde entonces una caída de 30% hasta diciembre de 2015. Pero también existen factores internos que contribuyeron a la desaceleración de la actividad como un incremento en la incertidumbre sobre los resultados de la reforma tributaria, entre 2014 y mediados de 2015.
 
-Otros determinantes de la productividad
+# Otros determinantes de la productividad
 
 De igual manera, es importante analizar el ajuste por rendimiento y uso de los factores productivos antes mencionados con la evolución de las remuneraciones reales de la minería, obtenida del Instituto Nacional de Estadística de Chile, CIIU. Rev.3, Clasificación Internacional Uniforme de Actividades Económicas; y de la variación de la ley del mineral, obtenida de Comisión Chilena del Cobre – COCHILCO.
 

@@ -16,11 +16,15 @@ Sin embargo, no sólo importa crecer, sino hacerlo de forma sostenida. Y es prec
 
 Este debate no debe ser menospreciado si se considera la historia económica del país. En efecto, gracias a la reconstrucción del PIB boliviano entre 1846 y 1950 y su posterior enlace con series oficiales, en un trabajo conAlfonso Herranz-Loncán clasificamos el patrón de crecimiento de la economía boliviana en dos etapas: a) una, durante el siglo XIX, caracterizada por un muy escaso dinamismo económico; b) otra, durante el siglo XX, caracterizada por la existencia de diferentes décadas de auge y crisis (ver Gráfico 1).
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/56.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/56.embed"></iframe>
+</div>
 
 Así, cuando se analiza la evolución de la economía boliviana durante el siglo XX, tres profundas crisis en las décadas de 1930, 1950 y 1980 son claramente identificables. Hablamos de décadas pérdidas ya que los niveles del PIB per cápita previos a la crisis tardaron 9 años, 17 años y 28 años, respectivamente, en recuperarse. Asimismo, el impacto de estas crisis fue de tal magnitud que explican en gran medida los actuales niveles de divergencia frente a las economías más desarrolladas del mundo y de América Latina (ver Gráfico 2).[1]
 
+<div class="frame-container">
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/58.embed"></iframe>
+</div>
 
 El repaso de estas crisis es también importante ya que, particularmente las dos últimas, tuvieron lugar en contextos económicos externos poco favorables y fueron resultado de la toma de decisiones equivocadas y/o tardías.
 

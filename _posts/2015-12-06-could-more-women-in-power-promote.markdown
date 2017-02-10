@@ -7,7 +7,7 @@ authors:
 featured: images/Teaser-2015-12-06.png
 categories:
 - Inclusion de Género  
-- Economía Pública 
+- Economía Pública
 tags: [Internacional]
 ---
 
@@ -15,7 +15,9 @@ A study shows that female mayors attract twice as much in discretionary transfer
 
 Latin America stands as one of the regions that has made more progress in reducing gender gaps in political participation, but the reality is that women are also underrepresented in our region. In 2013, only about 25 percent of members of parliament and 7 percent of mayors at the local level were women.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/525.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/525.embed"></iframe>
+</div>
 
 Beyond the importance of promoting equal opportunities for all, why should we also care about gender parity in political representation?
 

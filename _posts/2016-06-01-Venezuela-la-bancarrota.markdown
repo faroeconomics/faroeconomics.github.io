@@ -13,7 +13,9 @@ tags: [Venezuela]
 
 Las noticias políticas y económicas de Venezuela muestran un deterioro completo de la situación. No solamente que el país está con una inflación anual proyectada por el FMI de 700% y caídas del PIB al ritmo de 6% por año, sino que sufre de graves problemas de abastecimiento. No hay alimentos ni medicinas básicas. El deterioro de los indicadores de progreso social es también mayúsculo.  Nosotros que vivimos la dramática experiencia de la hiperinflación y el desabastecimiento del primer quinquenio de la década de los años 80 no sufrimos, en cambio, mengua en los indicadores de salud. Muy al contrario, la caída de la tasa de mortalidad infantil comenzó en esos años gracias a la inteligente labor del entonces ministro Torres Goitia.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/84.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/84.embed"></iframe>
+</div>
 
 La pregunta es cómo Venezuela ha podido llegar a esa situación, teniendo las condiciones iniciales favorables que tenía. Los yacimientos más importantes de petróleo del mundo se encuentran en ese país. Su empresa estatal de petróleos, PDVSA, era considerada -antes del reino de Chávez-  una de las mejores del mundo, con ingenieros y ejecutivos de clase internacional y transnacionalizada con empresas subsidiarias más allá de sus fronteras.
 Algunos economistas venezolanos son también de un gran nivel, profesores en las mejores universidades del mundo. Con el programa Mariscal de Ayacucho, centenares de profesionales habían hecho estudios de posgrado. La prosperidad venezolana era la envidia de los otros latinoamericanos y aun norteamericanos. El apodo de los venezolanos que iban a Miami era el de “dame dos” porque todo les parecía barato y se lo compraban en doble.

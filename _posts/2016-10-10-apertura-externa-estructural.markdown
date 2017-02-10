@@ -36,7 +36,11 @@ La selección de años se ha basado en las oscilaciones coyunturales de los prec
 
 Considerando el índice internacional de precios de commodities del FMI, hemos seleccionado 3 momentos clave: el año 2008 cuando dicho índice alcanzó su máximo histórico, a comienzos de 2016 cuando alcanzó el mínimo en el periodo elegido y el 2010 como año intermedio entre dichos extremos. Dado que los datos para 2016 no se hallan disponibles, hemos tomado el 2015 como proxy para estos cálculos. En el gráfico siguiente se puede apreciar el índice de los precios internacionales de materias primas para el periodo 2006 a 2016.
 
-<iframe width="780" height="500" frameborder="0" scrolling="no" src="//plot.ly/~faro/106.embed"></iframe>
+<div class="frame-container">
+  <iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/106.embed"></iframe>
+</div>
+
+
 
 Indice General de Precios de Mercancias
 
@@ -46,9 +50,11 @@ En el gráfico anterior se puede apreciar la pertinencia de escoger los años in
 
 El siguiente paso ha consistido en determinar la apertura externa de las economías, tomando en consideración la suma de exportaciones e importaciones y su relación porcentual respecto del PIB. Para ello se ha verificado que todos los países considerados (un total de 143) cuenten con la información completa para los años considerados. En el gráfico siguiente se puede ver el ingreso per cápita (más precisamente, el GDP per cápita) para 143 países y sus respectivos grados de apertura para los años indicados. Las líneas muestran las variaciones relativamente ligeras entre los años seleccionados.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/103.embed"></iframe>
+<div class="frame-container">
+  <iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/103.embed"></iframe>
+</div>
 
-Bolivia: Apertura Externa y GDP per-capita
+# Bolivia: Apertura Externa y GDP per-capita
 
 
 

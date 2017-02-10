@@ -18,7 +18,9 @@ A partir de la difusión de estas expectativas y dado el rango que comprenden é
 
 Afortunadamente, existen criterios técnicos para conocer en qué medida pueden ser más o menos acertadas las previsiones de estas entidades, a las cuales añadiré la de la Encuesta de Expectativas Económicas que recaba mensualmente el Banco Central de Bolivia (EEE-BCB). La información que utilizaré para este corto análisis, que corresponden a las previsiones hechas en el último trimestre de cada año y el crecimiento observado en el año siguiente, se muestra en el gráfico 1.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/35.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/35.embed"></iframe>
+</div>
 
 Un primer aspecto que debo destacar es que los pronósticos de estas cuatro fuentes difieren en más de un punto porcentual (pp) de la cifra observada. En efecto, una medida de (im)precisión de las proyecciones conocida como error cuadrático medio[ii] se sitúan entre 1,08 puntos porcentuales (pp) y 1,25pp. Esto es menor, pero no en gran medida, a la desviación estándar de la variable de interés, el crecimiento anual del PIB, que desde 1990 fue 1,46pp. En síntesis, el margen de error de las proyecciones anteriores es todavía alto.
 
@@ -28,7 +30,9 @@ Lo anterior no implica que algunas proyecciones sean más optimistas que otras. 
 
 En términos más específicos, incluso es posible añadir criterios subjetivos al análisis basado únicamente en la información pasada (promedios), para ver que en realidad estas proyecciones no son distantes unas de las otras. Para eso utilizaré el análisis bayesiano que puede hacer lo previamente dicho. [iii] Los resultados se muestran en el gráfico 2, donde se observa la variabilidad histórica del crecimiento del PIB (línea azul) y tres distribuciones que incorporan otras fuentes, tal como se explica a continuación.[iv]
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/38.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/38.embed"></iframe>
+</div>
 
 El gráfico en cuestión muestra que si tomamos el promedio histórico desde el año 1990, deberíamos esperar un crecimiento en torno a 4,1%, con un rango que va entre 3,4% y 5,0% (línea azul). Si por medio del análisis bayesiano queremos añadir la información subjetiva basados en las proyecciones de las instituciones que proyectan ambos extremos (FMI/BM y MEFP), las proyecciones puntuales se convierten en 4,0% y 4,3%, respectivamente (línea naranja y ploma respectivamente). Por tanto y dado que las áreas se sobreponen, no existe una diferencia significativa en términos estadísticos aún si se trata de afinar la proyección con la información puntual del FMI/BM y del MEFP, tomando como parámetros de variabilidad los errores de pronóstico que, como se mencionó previamente son menores a la dispersión global de los datos en el periodo de referencia.
 
@@ -38,7 +42,9 @@ Si es que existe cierta convergencia entre proyecciones aparentemente divergente
 
 Finalmente y sólo para despertar la curiosidad al lector, formula una pregunta más interesante como en qué medida el 2016 pude ser comparable a los años anteriores. Es decir, ¿pasamos de un boom a un periodo normal o a uno de recesión?. Para eso empleé el análisis de cambio de régimen (“switching – regime”), que tiene la capacidad de identificar las probabilidad que esté en uno de los tres estados o situaciones que postulo al respecto: crecimiento algo, normal y crecimiento bajo.[v] Los crecimientos asociados a cada estado son 5,2%, 4,2% y 2,7%. Los resultados, mostrados en el gráfico 3, indican que habríamos transitado de un periodo de auge a uno normal, con muy leves signos de periodo de bajo crecimiento. Es decir, estaríamos más cerca de un crecimiento promedio en torno a 4,2%.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/42.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/42.embed"></iframe>
+</div>
 
 En resumen, aunque existe 1,5pp de diferencia entre la proyección más optimista (MEFP) y la más pesimista (FMI/BM), estadísticamente están dentro del mismo rango. El análisis bayesiano como el de cambio de régimen indica que estaríamos transitando a un crecimiento que sería similar al del año 2015, estimado en 4,2% con la información parcial hasta fin de año.
 

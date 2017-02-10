@@ -9,7 +9,7 @@ featured: images/Teaser-2016-07-23.png
 categories:
 - Crecimiento y Productividad
 - Economía Pública
-- Desarrollo Económico 
+- Desarrollo Económico
 tags: [Bolivia]
 ---
 
@@ -19,7 +19,9 @@ A su vez las diferencias en los niveles de ingreso entre países están fuerteme
 
 Como evidencia de lo anterior, en la figura 1 encontramos una correlación positiva de 77% entre el crecimiento de la productividad y el crecimiento del producto per cápita  para un grupo de 79 países[3] en los últimos 40 años. De la figura podemos dividir en tres grupos a los países seleccionados: Primero el grupo de 12 países que crecen a tasas de productividad por encima del 1.5%. Luego aquellos cuya tasa de productividad varía entre cero y alcanzan tasas algo menores a 1.5% – representando la gran porción 56 países – y finalmente 11 países que experimentaron tasas de crecimiento de productividad negativa.  
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/90.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/90.embed"></iframe>
+</div>
 
 En el primer grupo, se evidencia una alta dispersión en cuanto al nivel de tasas de crecimiento. Por ejemplo, para un mismo nivel de productividad Corea del Sur alcanza una tasa de crecimiento del ingreso mayor a la de India o Tailandia. Este grupo se caracteriza por tener un crecimiento promedio de la PTF de 2% con un crecimiento del ingreso de 4.5%. Adicionalmente, la distancia con respecto  a la línea roja, que representa la relación lineal entre el crecimiento de los ingresos asociado con cada tasa de crecimiento de la productividad, sugiere que la acumulación de capital y empleo también aportó significativamente para lograr tasas de crecimiento más altas en este grupo.
 
@@ -33,7 +35,9 @@ Diferencia de Ingreso = Diferencia de Productividad + Diferencia de Factores
 
 Esta relación, que se obtiene a partir de una función de producción agregada, constituye la base de lo que se conoce como la “contabilidad del crecimiento”.  Usando dicha descomposición podemos investigar la siguiente pregunta: ¿Cuán es el efecto de la productividad en el ingreso per-cápita manteniendo constante la acumulación de los factores de producción?  Por ejemplo, según el World Economic Outlook del FMI, en 1980 Bolivia tenía un ingreso per cápita ajustado por paridad de poder de compra (PPP) de $2.159 dólares. En términos de brechas, el ingreso per-cápita de Bolivia en 1980 era 29% menor al de Colombia, 60% menor al de Chile, y aproximadamente 50% menor con respecto al promedio de Sudamérica. ¿Cuánto ayudó el crecimiento de la productividad a cerrar estas brechas de ingreso?  
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/86.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/86.embed"></iframe>
+</div>
 
 En la figura 2 mostramos la evolución del ingreso per-cápita de Bolivia en comparación con el promedio de la región asumiendo que entre 1980-2014 la productividad fue la única fuente de crecimiento. Sorprende observar en nuestro mundo ficticio, que Bolivia y la región, han permanecido estancados en el nivel inicial de ingreso de hace casi 40 años. También, se corrobora el desperdicio de la década de los ochentas con un crecimiento negativo de la productividad que no aportó al crecimiento del ingreso. Incluso en las décadas posteriores la productividad creció en promedio a una tasa extremadamente lenta. Esto no quiere decir que en el ingreso per-cápita haya quedado estancado en la realidad; recordemos que en nuestro experimento los factores de producción son constantes y toda la dinámica es generada por la productividad cuya importancia, es precisamente la de fomentar el crecimiento en el largo plazo. Sin embargo, para Bolivia y en general en Sudamérica, la productividad no fue un motor de crecimiento económico en este período.
 

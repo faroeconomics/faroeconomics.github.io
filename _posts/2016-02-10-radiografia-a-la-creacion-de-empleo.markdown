@@ -24,7 +24,9 @@ Pero no sólo es importante saber quiénes están obteniendo los nuevos puestos 
 
 Un hecho clave que muestra la delicada situación laboral que están atravesando los chilenos más vulnerables, es que los nuevos empleos por cuenta propia no sólo se han concentrado en personas sin educación superior completa, sino que además éstos se ejercen fundamentalmente en la calle. Así, las cifras dan cuenta que el empleo con estas características ha aumentado en 39.890 en el último año, lo que equivale al 37,7% de la creación total de empleo.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/60.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/60.embed"></iframe>
+</div>
 
 uando cerca de 40% de la creación de empleo corresponde a empleos por cuenta propia ejercidos en la vía pública por personas sin educación superior completa resulta evidente que la visión autocomplaciente de que la desaceleración no ha afectado al mercado laboral es totalmente equivocada. Las cifras nos están dando un mensaje claro: la destrucción de empleos en el segmento de personas sin educación superior sólo ha logrado ser paliada porque casi 40 mil compatriotas han tenido que autoemplearse saliendo a las calles. Si ésta es una de las razones fundamentales que explica por qué la tasa de desocupación no sube, entonces resulta evidente que la visión de que la desaceleración no ha impactado al mercado laboral no es más que un mito o un muy mal chiste.
 

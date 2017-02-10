@@ -8,7 +8,7 @@ authors:
 featured: images/Teaser-2015-06-28.png
 categories:
 - Macroeconomía
-- Economía Pública 
+- Economía Pública
 tags: [Bolivia]
 ---
 
@@ -23,10 +23,15 @@ Primero, la inversión es un componente particular de la demanda agregada y tien
 
 En el gráfico, dividimos la muestra para hacer el mismo cálculo en dos sub-períodos y observamos que incluso en los últimos diez años la inversión privada es más volátil que la inversión pública. Esto sugiere que la inversión pública ayuda a disminuir la volatilidad de la inversión total y esto a su vez tiende a reducir la magnitud de los cambios en el ciclo económico.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/30.embed"></iframe>
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/79.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/30.embed"></iframe>
+</div>
 
-La incertidumbre detiene las inversiones
+<div class="frame-container">
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/79.embed"></iframe>
+</div>
+
+# La incertidumbre detiene las inversiones
 
 En segundo lugar, al nivel de empresas la inversión tiende a estar aglomerada y ocurrir luego de lapsos de inactividad prolongados. En el trabajo pionero de Doms y Dunne[3] (1998) para Estados Unidos muestra que anualmente aproximadamente el 25% de las firmas no invierte, mientras que entre 30%-40% de la inversión total de una firma promedio en un periodo de casi 20 años ocurre en un solo episodio. Esto se debe a que existen costos de ajuste que afectan tanto el nivel de capital como a la inversión.
 
@@ -34,7 +39,7 @@ Cuando una empresa tiene que tomar la decisión de invertir o no, tiene que tene
 
 Es durante periodos de crisis cuando la inversión pública puede tener un rol valioso. Si la inversión pública actúa de manera contra-cíclica, es decir aumenta cuando la actividad económica disminuye, puede ayudar a señalizar las condiciones de la actividad económica hacia el futuro, reducir la incertidumbre acerca de las condiciones de la demanda agregada y allanar el camino para la inversión privada.
 
-Alternativas para mejorar la eficiencia de la inversión pública
+# Alternativas para mejorar la eficiencia de la inversión pública
 
 En definitiva la inversión pública no es el demonio; sin embargo puede serlo en ausencia de evaluación, focalización e institucionalidad. Durante los años 70 los planes quinquenales, corporaciones nacionales de desarrollo y planeamientos carentes de control y revisión heredaron una deuda considerable que desembocó en la crisis de mediados de los años 80. Uno de los peligros de la inversión pública es financiarla en base de deuda sin lograr estimular la productividad en la economía.
 

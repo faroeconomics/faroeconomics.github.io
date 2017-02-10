@@ -15,8 +15,9 @@ De acuerdo con un reciente análisis del Fondo Monetario Internacional (FMI), �
 
 En este estudio hago seguimiento a dos contribuciones anteriores con respecto a esta conexión, que se pueden encontrar en este enlace y en este otro. A diferencia de tales intentos, aquí uso datos trimestrales (en lugar de anuales) para volver a estimar una relación de causalidad de Granger entre coeficientes de variación del precio del petróleo, según la cotización WTI, (CDV_WTI) y el crecimiento del producto interno bruto real de Estados Unidos (CR_PIBR_EU). Los datos trimestrales están dirigidos a capturar los efectos estacionales no visualizados en la información anual. De acuerdo con prácticas econométricas estándar, esto requiere realizar: (1) pruebas de estacionariedad de las dos variables para encontrar su orden de integración; (2) una comprobación de cointegración para ver si las variables son integradas de orden uno; y (3) pruebas de causalidad de Granger.
 
-<iframe width="780" height="500" frameborder="0" scrolling="no" src="//plot.ly/~faro/101.embed"></iframe>
-
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/101.embed"></iframe>
+</div>
 Como se ve en la Tabla 1, las dos variables son esencialmente estacionarias (o integradas de orden 0). En consecuencia, no hay necesidad de diferenciación de las variables y, debido a que no comparten una tendencia común, tampoco pueden estar cointegradas. Así, para la prueba de causalidad de Granger se puede proceder de tres maneras: (A) utilizar las variables tal como son en las ecuaciones de causalidad; (B) incluir una variable de tendencia temporal en las regresiones; y (C) extraer la tendencia temporal de las variables realizando una regresión de cada una de ellas (si corresponde) con respecto al tiempo y usar sus residuos respectivos en las regresiones[2]. Por último, en cada regresión de causalidad, necesitamos llevar a cabo las pruebas de Wald correspondientes para rechazar o aceptar la hipótesis nula de no causalidad.
 
  [Cuadro 1]

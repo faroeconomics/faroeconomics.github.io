@@ -7,7 +7,7 @@ authors:
 featured: images/Teaser-2016-01-17.png
 categories:
 - Macroeconomía
-- Economía Pública 
+- Economía Pública
 tags: [Ecuador]
 ---
 
@@ -17,11 +17,15 @@ Grecia ha estado viviendo años difíciles, el sobreendeudamiento y déficit fis
 
 Ecuador en 2014, con un precio del petróleo de 93,1 USD/barril, tuvo un déficit fiscal de 7,3% del PIB. Hoy el precio del petróleo ronda los 31 USD/barril. Considerando que el petróleo representa un 50% de las exportaciones del país, la situación se ha tornado delicada. En sólo 12 meses el valor de las exportaciones de petróleo de Ecuador ha disminuido cerca de un 60% como muestra la siguiente figura.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/46.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/46.embed"></iframe>
+</div>
 
 Esto ha provocado un incremento del déficit de la balanza comercial y una reducción de los ingresos fiscales –los ingresos petroleros cayeron entre 2014 y 2015 un 51.3%-. Más preocupante aún, como se puede observar en la figura 2, en 2015 no solamente cayeron los ingresos petroleros sino que casi todos los ingresos del sistema público no financiero, lo que se va a traducir en un incremento del déficit fiscal respecto de 2014. Déficit que de mantenerse el precio del petróleo en los niveles actuales, va a ser difícil de revertir.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/49.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/49.embed"></iframe>
+</div>
 
 Entonces, la pregunta natural es: ¿Hasta cuándo Ecuador podrá financiar sus déficits?
 

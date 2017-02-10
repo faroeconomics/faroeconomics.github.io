@@ -9,7 +9,7 @@ featured: images/Teaser-2015-12-01.png
 categories:
 - Empleo y Demografía
 - Microeconomía
-- Desarrollo Económico 
+- Desarrollo Económico
 tags: [Bolivia]
 ---
 
@@ -17,7 +17,9 @@ tags: [Bolivia]
 
 En esta línea, con datos obtenidos a través de la encuesta de demanda del mercado laboral en Bolivia 2014, se recolectó información de estudiantes universitarios acerca de sus perspectivas de ingreso a uno y cinco años una vez finalizada su formación. Con estas averiguaciones, se contrastó lo que los estudiantes esperan obtener con aquello que el mercado ofrecía a jóvenes con educación universitaria en las edades esperadas a 1 y 5 años de terminada su formación.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/501.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/501.embed"></iframe>
+</div>
 
 El estudio, nos descubre estos tres hechos principales:
 
