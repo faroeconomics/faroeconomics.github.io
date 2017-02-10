@@ -20,7 +20,7 @@ Para un país como Bolivia, en el que las exportaciones en materias primas como 
 Para analizar el efecto de los términos de intercambio en Bolivia, primero recurrimos al sistema de consultas de comercio exterior del Instituto Nacional de Estadistica (INE) y recolectamos información trimestral de los valores y volúmenes de exportaciones e importaciones del primer trimestre de 2000 hasta el primer trimestre de 2016[1]. Los datos están desagregados al nivel de sección de acuerdo con la clasificación de la nomenclatura aduanera estandarizada de la Comunidad Anida (NANDINA). Usando la guía metodológica del INE[2], construimos los índices de valor unitario de las exportaciones (IVUX) e importaciones (IVUM). Los términos de intercambio se definen finalmente como la razón del IVUX con respecto al IVUM. Nuestra serie de términos de intercambio tiene una correlación de 0.90 con respecto a la serie oficial del INE, la cual dejó de ser actualizada en 2013.
 
 <div class="frame-container">
-<iframe width="780" height="600" frameborder="0" scrolling="no" src="//plot.ly/~faro/72.embed"></iframe>
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/72.embed"></iframe>
 </div>
 
 En el gráfico  1 muestra la serie construida y agregada a nivel anual. Se observa que a principios de 2000 los términos de intercambio estaban deprimidos, en parte por la deteriorada salud de nuestros vecinos comerciales más importantes: Brasil  y Argentina. Posteriormente, la expansión significativa en la demanda por materias primas provocada por China, generó un incremento en el precio de petróleo que para Bolivia se tradujo en un incremento en los precios de gas natural de US$ 2.5  a US$ 9.6 por millón de BTU.  Los incrementos promedio en el precio de metales y minerales alcanzaron entre 80% y 250% entre 2004 y 2013. A pesar de este boom, el desenlace de la historia es conocido, la caída en los precios de materias primas provocó un deterioro en los términos de intercambio de 25.1% en 2015 y al primer trimestre de 2016 los términos de intercambio han vuelto al nivel de 2006, develando el probable ocaso de diez años de bonanza externa.
@@ -31,9 +31,11 @@ Para cuantificar la dirección y la magnitud de la respuesta de la actividad eco
 
 El SVAR incluye cinco variables para el período 2000 – 2014 en frecuencia trimestral: nuestra medida de términos de intercambio, la balanza comercial como porcentaje del PIB, el nivel del PIB, el consumo y la inversión a precios constantes. La estimación revela algunos resultados interesantes. Primero los shocks de términos de intercambio son persistentes y altamente signficativos. La desviación estándard de estos shocks es de aproximadamente 14% y su vida media es de alrededor de 3 trimestres. El panel izquierdo del gráfico 2 muestra la respuesta de los términos de intercambio ante un shock negativo que genera una caída equivalente a una desviación estándard, mientras que el panel derecho muestra que la respuesta del PIB frente al shock de términos de intercambio es negativa, persistente y sobre todo con efectos de largo plazo que son estadística y económicamente significativos. El nivel del producto cae 0.28% durante el primer año y se mantiene permanentemente deprimido aproximadamente 0.4% luego de 5 años de recibir el shock.
 
-<iframe width="780" height="600" frameborder="0" scrolling="no" src="//plot.ly/~faro/70.embed"></iframe>
+<div class="frame-container">
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/70.embed"></iframe>
+</div>
 
-Importancia de los shocks de términos de intercambio
+# Importancia de los shocks de términos de intercambio
 
 
 El gráfico anterior muestra que shocks de términos de intercambio generan efectos significativos en el nivel de producto. Consistente con la noción de que países que dependen de un sector exportador concentrado en materias primas sufren fluctuaciones significativas. Nuestra estimación revela que tanto el consumo y la balanza comercial se contraen en respuesta a estos shocks. Un año después del impulso, la balanza comercial cae medio punto porcentual; mientras que el consumo se contrae aproximadamente un 0.1%. Sorprendentemente, la inversión total casi no responde. Esto se debe a que la inversión pública responde más que proporcionalmente y en la dirección contraria a la inversión privada. Cuando los términos de intercambio mejoran la inversión pública aumenta y la inversión privada disminuye.

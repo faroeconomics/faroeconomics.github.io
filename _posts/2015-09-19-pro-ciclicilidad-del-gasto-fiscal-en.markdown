@@ -25,7 +25,7 @@ En el gráfico mostramos la correlación contemporánea entre los componentes de
 El panel (b) muestra el componente de transferencias unilaterales. Sorprendentemente las transferencias tuvieron un comportamiento contracíclico a lo largo de todo el periodo y a pesar que la correlación con el PIB ha disminuido consistentemente todavía se mantiene en terreno negativo. Esta evidencia apunta a que a pesar de que la política fiscal ha vuelto por el camino de la prociclicidad la política de transferencias estaría jugando un papel de estabilización. Si dichas transferencias son focalizadas y además están dirigidas hacia programas sociales cuyo impacto es positivo su rol contracíclico es aún más valioso, lo cual es alentador.[1] Por ello la necesidad de exigir una evaluación constante del impacto de estas transferencias para darles continuidad en particular durante recesiones.
 
 <div class="frame-container">
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/187.embed"></iframe>
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/187.embed"></iframe>
 </div>
 
 ¿Que explica la prociclicidad del gasto?

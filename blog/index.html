@@ -15,16 +15,19 @@ layout: default
         <header>
           {% assign authorCount = post.authors | size %}
           <!-- <p class="posted"> <strong>{{post.title}}</strong> | {{ post.date | date_to_string }}  |  {{site.authors[post.authors].name }} | {{authorCount}}</p> -->
-
+          <ul class="default">
+            <li2>
+                <a href="{{ site.prefix }}{{ post.url }}"> {{post.title}}</a>
+            </li2>
+          </ul>
           {% if authorCount == 0 %}
-            <p class="posted"> <strong>{{post.title}}</strong></p>
             <p class="posted>"> | {{ post.date | date_to_string }} </p>
           {% elsif authorCount == 1 %}
           {% assign firstAuthor = post.authors | first %}
-          <p class="posted"> <strong>{{post.title}}</strong> </p>
+          <!-- <p class="posted"> <strong>{{post.title}}</strong> </p> -->
           <p class="posted>"> {{ post.date | date_to_string }}  |  {{site.authors[firstAuthor].name }}</p>
           {% else %}
-          <p class="posted"> <strong>{{post.title}}</strong> </p>
+          <!-- <p class="posted"> <strong>{{post.title}}</strong> </p> -->
           <p class="posted">  {{ post.date | date_to_string }}  |
               {% for author in post.authors %}
                   {% if forloop.first %}
@@ -51,15 +54,17 @@ layout: default
   <!-- Pagination links -->
   <div class="pagination">
   {% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  <!-- <a href="#" class="button button-style1">Más detalles</a> -->
+
+  <!-- <span class="page_number ">Página: {{ paginator.page }} of {{ paginator.total_pages }} </span> -->
+  <a href="{{ paginator.previous_page_path }}" class="button button-style1">Anterior</a>
   {% else %}
-  <span class="previous">Previous</span>
+  <!-- <span class="button button-style1">Anterior</span> -->
   {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  <a href="{{ paginator.next_page_path }}" class="button button-style1">Siguiente</a>
   {% else %}
-  <span class="next ">Next</span>
+  <!-- <span class="button button-style1 ">Siguiente</span> -->
   {% endif %}
   </div>
 

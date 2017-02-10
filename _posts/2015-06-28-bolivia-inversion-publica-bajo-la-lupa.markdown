@@ -28,7 +28,7 @@ En el gráfico, dividimos la muestra para hacer el mismo cálculo en dos sub-per
 </div>
 
 <div class="frame-container">
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/79.embed"></iframe>
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/79.embed"></iframe>
 </div>
 
 # La incertidumbre detiene las inversiones

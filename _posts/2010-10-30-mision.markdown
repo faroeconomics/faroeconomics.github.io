@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'Mision'
+date: '2010-10-30T07:32:00.002-08:00'
+authors:
+- faroadmin
+featured: images/Teaser-2016-11-30.png
+tags: [Bolivia]
+---
+
+Un faro es la principal referencia para un navegante que quiere llegar y no encallar. Es el punto de referencia que hace más ligera la angustiosa travesía de explorar.
+
+Pueden existir diversos tipos de faros en nuestras vidas, en este caso, para ustedes mis queridos amigos, este blog pretende ser un punto de encuentro donde todos consultaremos y alimentaremos la luz que guíe nuestros debates y por sobre todo nuestras inquietudes.

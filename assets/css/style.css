@@ -263,9 +263,20 @@
 			{
 				padding: 0.60em 0em;
 				font-size: 0.95em;
+				font-weight: 400;
 				border-top: 1px solid;
 				border-color: rgba(0,0,0,.1);
 			}
+
+			ul.default li2
+			{
+				padding: 0.00em 0em;
+				font-size: 1.1em;
+				font-weight: 400;
+				/*border-top: 1px solid;*/
+				border-color: rgba(0,0,0,.1);
+			}
+
 
 			ul.default li:first-child
 			{

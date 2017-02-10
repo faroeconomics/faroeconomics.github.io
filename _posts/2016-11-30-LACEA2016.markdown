@@ -7,6 +7,9 @@ authors:
 - luisgonzales
 featured: images/Teaser-2016-11-30.png
 tags: [Internacional]
+categories:
+- Conferencias y Workshops
+- Desarrollo Económico
 ---
 Marie Curie was one of the greatest scientists of the 20th century. She was the first woman to win a Nobel Prize and the only woman to receive this honor twice for her contributions to two separate fields. She was undeniably a giant. Nonetheless, it is less known that despite her achievements she was denied membership to the French Academy of Sciences because she was a woman. A lot has transpired and evolved since this sordid incident in 1911. However, glass ceilings constraining the role of women in the advancement of science persist.
 

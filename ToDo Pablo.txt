@@ -38,43 +38,49 @@ Prioritarios
 
 Página Inicio
 
-1.Nuestra Misión; Botón Más detalles: nos lleva a la cabecera. ....
+1.(DONE) Nuestra Misión; Botón Más detalles: nos lleva a la cabecera. ....
 Para conversar: Creo que es importante la Misión sugeriría darle un lugar
 más importante en la página a lo mejor a la altura de la bienvenida
 (Esto ya lo hablamos un poco hace poco)
 
-2. Envía Tus artículos: Esto tenemos que trabajrlo, aún nos manda al Inicio
+2. (DONE) Envía Tus artículos: Esto tenemos que trabajrlo, aún nos manda al Inicio
 
-3. Suscribete: TOP, creo que tenemos que poner en Español
-Al final en la parte inferior  (DONE)
+3. (DONE) Suscribete: TOP, creo que tenemos que poner en Español
+Al final en la parte inferior
 
-4. ¿Hay posibilidad de que cuando uno apreta el Twitter se abra otra pestaña?
+4. (DONE) ¿Hay posibilidad de que cuando uno apreta el Twitter se abra otra pestaña?
 esto para que no se pierda la pestaña de El Faro .... lo mismo con Facebook y el email
 
 
-
-
-
-
 Página Artículos
+
 los  títulos de los artículos podrían tener hipervínculos para abrir ... Ejemplo como en los más Populares de este mes el título de los post tienen el hipervinculo
 Artículos
 Tenemos que bajarle el tamaño a las notas de pie y talvez poner una línea divisoria o algo para que se vea que es una nota menos al artículo
 IDEA, en el Project Syndicate uno puede introducir comentarios por párrafos ¿Qué te parece?
+
 Al poner el cursor hacia abajo tenemos constantemente una franja Blanca, que la podemos llenar con el compartir que baje junto a la páginaa
 Sobre los íconos del compartir: ojalá se pudiese tener los colores de cada red social
 La redes son: Twitter, Facebook, Google, Whattsapp, Mesenger Facebook, Instagram
-El tamaño de las imágenes varia de post a post
-Sobre el texto ... tenemos que jugar con colores de los hipervínculos
+
+(DONE) El tamaño de las imágenes varia de post a post
+(DONE) Sobre el texto ... tenemos que jugar con colores de los hipervínculos
+
 Igual los subtítulos ponerlos con Negrita para que se vean que son subtítulos
 Tipos de letras ... para los Quotes de iluminación y poesía del principio ... viejo a vos te encanta los tipos de letra.... pongamos eso en acción
+
 Los Más leídos .... va con tilde los dos
+
 Populares este Mes
-Previous y Next tenemos que hacerlo con boton azul y al medio y grande para que la gente pueda ir a la siguiente página ... creo que Goooooooogle idea es una buena ... algo así como Farooooooooooooo  ¿qué tal?
+
+(DONE) Previous y Next tenemos que hacerlo con boton azul y al medio y grande para que la gente pueda ir a la siguiente página ... creo que Goooooooogle idea es una buena ... algo así como Farooooooooooooo  ¿qué tal?
+
 Creo que hay que ver caso a caso el tamaño de las imagenes en los mismo artículos
+
 Páginas Países
 Excelente !!!!
 Creo que podríamos hacer los del menu desplegable con el menu de países del principio
+
 Página Temas
 Excelente !!!
 Idem Pág Países
