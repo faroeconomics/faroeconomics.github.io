@@ -4,7 +4,7 @@ title: 'Contribuir un articulo'
 date: '2010-11-30T07:32:00.002-08:00'
 authors:
 - faroadmin
-featured: images/Teaser-2016-11-30.png
+featured: images/Teaser-2010-11-30.jpg
 tags: [Bolivia]
 ---
 

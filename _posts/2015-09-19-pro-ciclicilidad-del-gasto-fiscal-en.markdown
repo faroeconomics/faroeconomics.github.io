@@ -28,7 +28,7 @@ El panel (b) muestra el componente de transferencias unilaterales. Sorprendentem
 <iframe frameborder="0" scrolling="no" src="//plot.ly/~pcubaborda/187.embed"></iframe>
 </div>
 
-¿Que explica la prociclicidad del gasto?
+# ¿Qué explica la prociclicidad del gasto?
 
 La prociclicidad del gasto es un problema común en las economías emergentes como inicialmente hicieron notar Talvi y Vegh (2005) e Ilzetzki y Vegh (2008). Para entender que explica la habilidad de algunos países de conducir una política fiscal contracíclica, el trabajo de Frankel, Vegh y Vuletin (2011), muestra evidencia que la mejora de la calidad institucional en varias economías emergentes está relacionada con la graduación en el manejo fiscal durante la primera década del siglo XXI.
 

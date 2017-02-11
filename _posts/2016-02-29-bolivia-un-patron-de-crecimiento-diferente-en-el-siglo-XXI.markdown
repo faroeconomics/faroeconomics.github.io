@@ -44,15 +44,13 @@ Finalmente, la nueva Ley de Servicios Financieros (2013) obliga a las entidades 
 
 Desde mi perspectiva, las decisiones adoptadas en torno a estos elementos tienen implicancias de medio y largo plazo que permitirán (o no), quebrar con el patrón del crecimiento económico boliviano en el siglo XX: el de desandar lo andado.
 
-Bibliografía
-
- Universidad Católica Boliviana
+# Bibliografía
 
 IMF (2015). Bolivia. Staff Report for the 2015 Article IV Consultation.
 
 Herranz-Loncán, Alfonso & Peres-Cajías, José Alejandro (2016) “Tracing the Reversal of Fortune in the Americas. Bolivian GDP per capita since the mid-nineteenth century”. Cliometrica, 10 (1), pp. 99-128.
 
-Morales, Juan Antonio (2016). “La economía nacional: entre el aterrizaje suave y la desestabilización”. Disponible en http://www.fundacion-milenio.org/Articulos/la-economia-nacional-entre-el-aterrizaje-suave-y-la-desestabilizacion.html
+Morales, Juan Antonio (2016). “La economía nacional: entre el aterrizaje suave y la desestabilización”. Disponible <a href="http://www.fundacion-milenio.org/Articulos/la-economia-nacional-entre-el-aterrizaje-suave-y-la-desestabilizacion.html"> acá </a>
 
 
 Publicado en : Vox.LACEA

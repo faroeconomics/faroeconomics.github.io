@@ -12,7 +12,7 @@ categories:
 tags: [Chile]
 ---
 
-a persistente caída de la productividad minera se evidencia desde el año 2000, según nuestro estudio de Clapes UC, constatando una caída entre el 60% y el 80% hasta el año 2013. Paradógicamente en este mismo periodo hubo un fuerte incremento del precio del cobre, sin embargo esto no explica directamente esta caída, sino más bien es el aumento en el precio de la energía, la caída en las leyes del mineral, y el desalineamiento de la variación de los salarios reales con los cambios de la productividad, entre las principales razones.
+La persistente caída de la productividad minera se evidencia desde el año 2000, según nuestro estudio de Clapes UC, constatando una caída entre el 60% y el 80% hasta el año 2013. Paradógicamente en este mismo periodo hubo un fuerte incremento del precio del cobre, sin embargo esto no explica directamente esta caída, sino más bien es el aumento en el precio de la energía, la caída en las leyes del mineral, y el desalineamiento de la variación de los salarios reales con los cambios de la productividad, entre las principales razones.
 
 Ahora, la acelerada caída del precio del cobre en el ultimo, incluso en torno al 15% en solo lo que va de este año 2015, llegando al nivel más bajo en cinco años y medio,  es una noticia que preocupa a uno de los principales sectores productivos del país, como es la minería, y que plantea la urgencia para trabajar en mejorar su productividad.
 

@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Tres hechos inesperados sobre el salario de los jóvenes
+title: 'Tres hechos inesperados sobre el salario de los jóvenes'
 date: '2015-12-01T13:00:00.000-08:00'
 authors:
 - horaciov
-published: false
 featured: images/Teaser-2015-12-01.png
 categories:
 - Empleo y Demografía

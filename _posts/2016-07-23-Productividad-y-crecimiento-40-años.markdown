@@ -13,11 +13,11 @@ categories:
 tags: [Bolivia]
 ---
 
-Es difícil pensar en temas que atraigan más atención de economistas y políticos que el explicar ¿Por qué algunos países son más ricos que otros? y ¿Qué se puede hacer para replicar la experiencia de los países más exitosos? Y es que, la necesidad de entender la mecánica del crecimiento económico es comparable solamente con la obsesión de Borges por el Zahir.[1]
+Es difícil pensar en temas que atraigan más atención de economistas y políticos que el explicar ¿Por qué algunos países son más ricos que otros? y ¿Qué se puede hacer para replicar la experiencia de los países más exitosos? Y es que, la necesidad de entender la mecánica del crecimiento económico es comparable solamente con la obsesión de Borges por el Zahir.[^1]
 
-A su vez las diferencias en los niveles de ingreso entre países están fuertemente relacionadas con las diferencias de crecimiento económico de largo plazo. Si bien existen muchas características que influencian las tasas de crecimiento, queremos concentrar nuestra atención en una en particular: el crecimiento de la productividad total de factores (PTF). La PTF es la fracción del crecimiento económico atribuible al progreso tecnológico. En otras palabras, es la diferencia entre el crecimiento observado del producto menos el aporte de los factores de producción (capital  y  trabajo). Por ejemplo, al relacionar la productividad con la diferencia en el ingreso de las naciones, Hsieh y Klenow (2010)[2] muestran que entre un 10% a 30% de la diferencias de ingresos se atribuye a diferencias en capital humano; 20% a las diferencias de capital físico y la mayor parte y de mayor significancia, entre 50% a 70% se atribuye a diferencias de productividad.  
+A su vez las diferencias en los niveles de ingreso entre países están fuertemente relacionadas con las diferencias de crecimiento económico de largo plazo. Si bien existen muchas características que influencian las tasas de crecimiento, queremos concentrar nuestra atención en una en particular: el crecimiento de la productividad total de factores (PTF). La PTF es la fracción del crecimiento económico atribuible al progreso tecnológico. En otras palabras, es la diferencia entre el crecimiento observado del producto menos el aporte de los factores de producción (capital  y  trabajo). Por ejemplo, al relacionar la productividad con la diferencia en el ingreso de las naciones, Hsieh y Klenow (2010)[^2] muestran que entre un 10% a 30% de la diferencias de ingresos se atribuye a diferencias en capital humano; 20% a las diferencias de capital físico y la mayor parte y de mayor significancia, entre 50% a 70% se atribuye a diferencias de productividad.  
 
-Como evidencia de lo anterior, en la figura 1 encontramos una correlación positiva de 77% entre el crecimiento de la productividad y el crecimiento del producto per cápita  para un grupo de 79 países[3] en los últimos 40 años. De la figura podemos dividir en tres grupos a los países seleccionados: Primero el grupo de 12 países que crecen a tasas de productividad por encima del 1.5%. Luego aquellos cuya tasa de productividad varía entre cero y alcanzan tasas algo menores a 1.5% – representando la gran porción 56 países – y finalmente 11 países que experimentaron tasas de crecimiento de productividad negativa.  
+Como evidencia de lo anterior, en la figura 1 encontramos una correlación positiva de 77% entre el crecimiento de la productividad y el crecimiento del producto per cápita  para un grupo de 79 países[^3] en los últimos 40 años. De la figura podemos dividir en tres grupos a los países seleccionados: Primero el grupo de 12 países que crecen a tasas de productividad por encima del 1.5%. Luego aquellos cuya tasa de productividad varía entre cero y alcanzan tasas algo menores a 1.5% – representando la gran porción 56 países – y finalmente 11 países que experimentaron tasas de crecimiento de productividad negativa.  
 
 <div class="frame-container">
 <iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/90.embed"></iframe>
@@ -27,7 +27,7 @@ En el primer grupo, se evidencia una alta dispersión en cuanto al nivel de tasa
 
 En el segundo grupo están los países que tienen un crecimiento de la productividad moderado, en promedio 0.7%,  y también presentan gran dispersión en cuanto a la tasa de crecimiento de sus ingresos entre algo superior al 0% y el 3.8%. En este grupo, países como Estados Unidos donde la productividad crece al 1% tiene una tasa de crecimiento del  ingreso  de 2% mientras que Indonesia crece al 3.8%. Finalmente, se encuentran aquellos países que tiene un crecimiento promedio de la productividad negativo  junto a un crecimiento del ingreso per-cápita bajo y menor a 1%. En este grupo, están algunos países en los que la constante maldición de los recursos naturales parece explicar la escasa innovación, como por ejemplo: Venezuela, Irán, Catar, Nigeria.
 
-La importancia de la productividad
+# La importancia de la productividad
 
 Del análisis anterior podemos deducir que las diferencias en los niveles de ingreso entre los países se pueden explicar como:
 
@@ -47,6 +47,6 @@ Ciertamente existen luces y sombras cuando comparamos la evolución de los nivel
 
 
 Publicado en Página Siete
-[1] Borges, Jorge Luis (1949). “El Aleph” http://www.literatura.us/borges/elzahir.html.
-[2] Hsieh C. y Klenow P. (2010) “Development Accounting” American Economic Journal Macroeconomics 2:1 Pág.  207-223
-[3]La muestra de países comprende 79 de 182 países disponible en las PWT 9.0. Se eliminaron países que no disponen de datos en alguna de las variables como capital, trabajo o participación de la masa salarial en el PIB empleadas para el cálculo de la PTF a-la Solow(1957) para el periodo 1969 a 2014.    
+[^1]: [1] Borges, Jorge Luis (1949). “El Aleph” http://www.literatura.us/borges/elzahir.html.
+[^2]: [2] Hsieh C. y Klenow P. (2010) “Development Accounting” American Economic Journal Macroeconomics 2:1 Pág.  207-223
+[^3]: [3] La muestra de países comprende 79 de 182 países disponible en las PWT 9.0. Se eliminaron países que no disponen de datos en alguna de las variables como capital, trabajo o participación de la masa salarial en el PIB empleadas para el cálculo de la PTF a-la Solow(1957) para el periodo 1969 a 2014.    
