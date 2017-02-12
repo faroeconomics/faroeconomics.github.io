@@ -5,10 +5,10 @@ date: '2015-01-13T13:30:00.002-08:00'
 authors:
 - luisgonzales
 featured: images/Teaser-2015-01-13-a.png
-categories:
+tags:
 - Macroeconomía
-- Economía Pública 
-tags: [Bolivia]
+- Economía Pública
+categories: [Bolivia]
 ---
 
 Ha sido develado el incierto “blindaje” de la economía ante la caída de los precios de las materias primas y en especial del petróleo. Se estima para 2015 que las pérdidas de ingresos fiscales  representarán entre 3.1 y 4.6 puntos porcentuales del PIB si el precio del barril permanece entre los USD70 a USD55 por barril.  Esto es muy preocupante en las actuales condiciones, más sabiendo que gran parte por los ingresos de los hidrocarburos se destinaron a financiar la inversión pública, que representó en los últimos ocho años algo más del 60% del crecimiento de la inversión total que en promedio creció al 11%. La dependencia de la política fiscal de la renta del gas natural obliga a pensar en estrategias alternativas para enfocar los recursos ante periodos menos favorables de precios de materias primas.

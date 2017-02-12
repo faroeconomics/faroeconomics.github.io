@@ -6,11 +6,12 @@ authors:
 - pablocuba
 - luisgonzales
 featured: images/Teaser-2016-04-22.png
-categories:
+tags:
 - Economía Internacional
 - Crecimiento y Productividad
 - Macroeconomía
-tags: [Bolivia]
+categories: 
+- Bolivia
 ---
 
 Una de las preguntas más antiguas en el análisis macroeconómico de los países en desarrollo es entender ¿cuál es el efecto de shocks en los términos de intercambio? Los términos de intercambio que se definen como la razón entre el precio de las exportaciones con respecto a las importaciones de un país son un precio relativo muy importante en una economía. Los países en desarrollo tienen una relación historicamente bipolar con esta variable, ya que cuando los términos de intercambio mejoran, las economías son seducidas a un tórrido romance de bonanza. Pero cuando termina la fiesta, el amor se torna en odio y algunas economías corren el peligro de entrar en las tres fases del llamado populismo macroeconomico: la gloria, la duda y el eventual colapso.

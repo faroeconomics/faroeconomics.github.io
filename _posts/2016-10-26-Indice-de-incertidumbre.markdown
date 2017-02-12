@@ -7,10 +7,11 @@ authors:
 - alvarosilva
 - josevalente
 featured: images/Teaser-2016-10-26.png
-categories:
+tags:
 - Macroeconomía
 - Economía Internacional
-tags: [Chile]
+categories:
+- Chile
 ---
 Si a usted le ofrecieran apostar 1000 dólares por el número que saldrá luego de arrojar un dado de seis caras, ¿Por cuál de estos lo haría? Dado que sabemos el universo de resultados posibles - 6 para este ejemplo - usted puede saber exactamente cuál es la probabilidad de acertar. En este caso, esto constituye una situación riesgosa, debido a que la probabilidad de que fallemos (5/6) o que ganemos (1/6), es perfectamente conocida. Si ahora, a usted le ofrecieran apostar 1000 dólares a cuál es el número de dados alguna vez creados por la humanidad, ¿aceptaría? ¿Tiene alguna idea de cuál es la probabilidad de acertar? Difícilmente y es poco probable que quién le esté ofreciendo la apuesta tenga también claridad sobre cuál es el número exacto. Estas situaciones son conocidas como situaciones de incertidumbre en la literatura económica.
 

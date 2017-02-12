@@ -5,10 +5,11 @@ date: '2016-01-18T07:32:00.002-08:00'
 authors:
 - juanzuleta
 featured: images/Teaser-2016-01-18.png
-categories:
+tags:
 - Macroeconomía
 - Desarrollo Económico
-tags: [Bolivia]
+categories:
+- Bolivia
 ---
 
 En un artículo titulado “La paradoja del crecimiento económico con derrumbe productivo” publicado en agosto del año pasado, reiteré anteriores argumentaciones y planteé otras nuevas respecto a las bases del crecimiento económico para explicar posibles acciones futuras del gobierno (v.g. aumento de la inversión pública, financiada por deuda interna a través del BCB  o deuda externa onerosa, y   del gasto corriente, asegurando el pago del segundo aguinaldo) con el propósito de continuar incentivando la elevación de la demanda interna y mantener el incremento del PIB, aun a costa de llevar a la economía el 2016 hacia una situación caracterizada por una menor capacidad de creación de empleo y un estancamiento económico.

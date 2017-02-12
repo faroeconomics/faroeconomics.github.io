@@ -6,10 +6,10 @@ date: '2015-01-27T13:56:00.000-08:00'
 authors:
 - luisgonzales
 featured: images/Teaser-2015-01-27-a.jpeg
-categories:
+tags:
 - Economía Internacional
 - Macroeconomía
-tags: [Internacional]
+categories: [Internacional]
 ---
 
 En el pasado los intentos de integración económica y comercial en América Latina han sido numerosos y  con resultados decepcionantes. La Alianza del Pacífico (AP) conformado en 2011 por Chile, Colombia, México y Perú ha logrado en menos de un quinquenio considerables avances en materia de integración y sus perspectivas a futuro son alentadoras. Para Chile existen mayores oportunidades económicas, financieras y comerciales de profundizar la integración en la Alianza del Pacífico que otros bloques regionales.

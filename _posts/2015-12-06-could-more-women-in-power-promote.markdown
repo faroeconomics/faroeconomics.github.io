@@ -5,10 +5,10 @@ date: '2015-12-06T04:59:00.000-08:00'
 authors:
 - patriciay
 featured: images/Teaser-2015-12-06.png
-categories:
+tags:
 - Inclusion de Género  
 - Economía Pública
-tags: [Internacional]
+categories: [Internacional]
 ---
 
 A study shows that female mayors attract twice as much in discretionary transfers from the federal government as their male counterparts and they are less likely to engage in corrupt activities. Only 22 per cent of all national parliamentarians worldwide were female as of August 2015, and only 11 women served as head of state The numbers have been increasing slowly, with the number of parliamentarians’  rising from 11.3 percent in 1995.

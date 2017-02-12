@@ -6,10 +6,10 @@ authors:
 - luisgonzales
 tags: [Chile]
 featured: images/Teaser-2015-09-16.png
-categories:
+tags:
 - Microeconomía
 - Empleo y Demografía
-tags: [Chile]
+categories: [Chile]
 ---
 
 Cuando la inflación anual se encuentra fuera de la meta fijada por el Banco Central la sociedad ve disminuido su bienestar. En particular, cuando la inflación es alta, hay grupos que sufren más que otros. Uno de estos grupos son los hogares de adultos mayores que representan 2,6 millones de personas en Chile y que, con el datos  del Índice de Precios al Consumidos del Adulto Mayor (IPC-AM) y del Adulto Mayor Vulnerable (IPC-AMV) calculado en ClapesUC recientemente registraron una inflación anual de 5.2% y  para el grupo de adultos mayores vulnerables de 6.1% en agosto.

@@ -5,10 +5,10 @@ date: '2015-01-16T12:53:00.000-08:00'
 authors:
 - luisgonzales
 featured: images/Teaser-2015-01-16-a.png
-categories:
+tags:
 - Energía y Medio Ambiente
 - Economía Pública
-tags: [Internacional]
+categories: [Internacional]
 ---
 
 Se denomina “Tarificación del Carbono” o “Carbon Pricing” a los métodos para establecer una tarifa, costo o precio para las emisiones emitidas a la atmósfera de gases con “efecto invernadero” (greenhouse gases, GHG). Estas emisiones son consideradas negativas, pues podrían acelerar y desviar el proceso natural de cambio climático. En particular, se busca “tarificar” el gas dióxido de carbono, emitido al consumir combustibles fósiles en las distintas ramas de la actividad económica.[^1]

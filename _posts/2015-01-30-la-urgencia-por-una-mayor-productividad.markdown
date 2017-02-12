@@ -6,10 +6,10 @@ authors:
 - hsolminihac
 - luisgonzales
 featured: images/Teaser-2015-01-30-b.png
-categories:
+tags:
 - Economía de los Recursos
 - Crecimiento y Productividad
-tags: [Chile]
+categories: [Chile]
 ---
 
 La persistente caída de la productividad minera se evidencia desde el año 2000, según nuestro estudio de Clapes UC, constatando una caída entre el 60% y el 80% hasta el año 2013. Paradógicamente en este mismo periodo hubo un fuerte incremento del precio del cobre, sin embargo esto no explica directamente esta caída, sino más bien es el aumento en el precio de la energía, la caída en las leyes del mineral, y el desalineamiento de la variación de los salarios reales con los cambios de la productividad, entre las principales razones.

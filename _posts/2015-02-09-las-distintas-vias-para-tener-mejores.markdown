@@ -5,10 +5,10 @@ date: '2015-02-09T10:40:00.001-08:00'
 authors:
 - luisgonzales
 featured: images/Teaser-2015-02-09-a.png
-categories:
+tags:
 - Economía Pública
-- Desarrollo Económico 
-tags: [Bolivia]
+- Desarrollo Económico
+categories: [Bolivia]
 ---
 
 Un aporte del Estado es proporcionar infraestructura, por ejemplo carreteras,  para el libre desarrollo de las actividades económicas de sus ciudadanos de manera eficiente y a costos razonables. Ahora,  ¿es el Estado, con su limitado presupuesto, el llamado a financiar, construir, operar y mantener todas las carreteras del país? No necesariamente.

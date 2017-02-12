@@ -5,10 +5,11 @@ date: '2016-09-27T07:32:00.002-08:00'
 authors:
 - carloszapata
 featured: images/Teaser-2016-10-10.png
-categories:
+tags:
 - Economía Internacional
 - Macroeconomía
-tags: [Internacional]
+categories: 
+- Internacional
 ---
 
 Históricamente, las oscilaciones de los precios internacionales de las materias primas han incidido profundamente en la economía boliviana, al extremo de definir la posibilidad de financiar el ejercicio de los derechos establecidos en la Constitución Política del Estado, por lo que han marcado indeleblemente la vida nacional en todos sus ámbitos y esferas. La relocalización de trabajadores mineros en 1985, la emergencia de ciudades fantasma por su abandono súbito y masivo, los recortes presupuestarios y los incrementos abruptos de precios de productos clave ("paquetazos"), son apenas algunas muestras de este historial.

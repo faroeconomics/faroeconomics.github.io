@@ -6,10 +6,10 @@ authors:
 - pablocuba
 - luisgonzales
 featured: images/Teaser-2015-06-28.png
-categories:
+tags:
 - Macroeconomía
 - Economía Pública
-tags: [Bolivia]
+categories: [Bolivia]
 ---
 
 Junto a la caída sostenida de los precios  del petróleo y otras materias primas como el estaño, las perspectivas de crecimiento de la economía empiezan a reducirse. Las autoridades de gobierno han revisando su proyección de crecimiento para 2015 de 5.9% a 5%, en tanto que las proyecciones de instituciones internacionales como el Banco Mundial y el Fondo Monetario Internacional así como las del sector privado sitúan la proyección de crecimiento en promedio por debajo del  4.5%.

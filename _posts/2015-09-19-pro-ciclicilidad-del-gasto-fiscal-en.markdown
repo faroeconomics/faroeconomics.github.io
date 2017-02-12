@@ -6,10 +6,10 @@ authors:
 - pablocuba
 - luisgonzales
 featured: images/Teaser-2015-09-19.png
-categories:
+tags:
 - Economía Pública
 - Macroeconomía
-tags: [Bolivia]
+categories: [Bolivia]
 ---
 
 ¿Cómo debería responder la política fiscal ante cambios en el ciclo económico? Esta es una pregunta muy importante desde el punto de vista de la teoría económica al igual que desde la perspectiva de las políticas públicas. Una de las principales herramientas de la política fiscal es el gasto. Si el gasto aumenta cuando la actividad económica disminuye, la política fiscal es contracíclica. En este escenario es posible que una política fiscal expansiva estimule la demanda agregada y suavice una caída de la actividad económica durante una recesión. Por el contrario, si el gasto fiscal se mueve en la misma dirección de la actividad económica, la política fiscal es procíclica. En este caso la política fiscal tiende a exacerbar las bonanzas y agravar las recesiones.

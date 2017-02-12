@@ -5,11 +5,11 @@ date: '2015-01-12T13:08:00.005-08:00'
 authors:
 - luisgonzales
 featured: images/Teaser-2015-01-12-a.png
-categories:
+tags:
 - Crecimiento y Productividad
 - Energía y Medio Ambiente
-- Economía de los Recursos 
-tags: [Chile]
+- Economía de los Recursos
+categories: [Chile]
 ---
 
 Hace unos días, se dio a conocer la intención del gobierno de presentar “el anteproyecto de ley para una nueva política de cambio climático”. La pregunta natural es ¿Cuál es el mejor principio para enfrentar este desafío? Mi propuesta es: apostar por una estrategia verde de crecimiento y productividad.

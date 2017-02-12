@@ -5,10 +5,11 @@ date: '2017-01-11T07:32:00.002-08:00'
 authors:
 - fernandocorrales
 featured: images/Teaser-2017-01-11.png
-categories:
+tags:
 - Macroeconomía
 - Economía de los Recursos
-tags: [Internacional]
+categories:
+- Internacional
 ---
 It is not news that Latin America’s exports depend heavily on commodities. Particularly, The Pacific Alliance (TPA) countries exports are also concentrated in commodities, hence have a significant exposure to price volatility of these products, affecting direct and indirectly key macroeconomic variables such as economic growth, inflation, interest rates, etc. According to World Bank data, Chilean exports of copper represent 55% of total exports; in Peru copper and gold together are 41.3%; meanwhile in Colombia exports of oil and coal stand by 51.5%. The story in Mexico is a bit different, exports are much more diversified and maybe less reliant on commodities. The importance of these products in total Mexican exports rounds 18%. Nevertheless, commodities exports are important because of fiscal revenues, the Federal Government of Mexico gets 20% of total income from oil production.
 

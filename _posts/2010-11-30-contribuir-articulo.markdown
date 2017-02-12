@@ -5,7 +5,7 @@ date: '2010-11-30T07:32:00.002-08:00'
 authors:
 - faroadmin
 featured: images/Teaser-2010-11-30.jpg
-tags: [Bolivia]
+categories: [Bolivia]
 ---
 
 Nuestra misión es ser un referente de información y evidencia de artículos en economía que acercan la teoría al debate público. En el Faro buscamos que los artículos vayan más allá de ensayos de opinión por lo cual requerimos que el debate y la tónica de los artículos esté fundamentada en base a la evidencia con datos, fuentes estadísticas y bibliográficas.

@@ -6,10 +6,10 @@ authors:
 - jamorales
 tags:
 featured: images/Teaser-2016-11-13.jpg
-categories:
+tags:
 - Crecimiento y Productividad
 - Macroeconomía
-tags: [Bolivia]
+categories: [Bolivia]
 ---
 
 Se han publicado en las últimas semanas varios artículos alabando el crecimiento de la economía boliviana, escritos por funcionarios del Ministerio de Economía y Finanzas. Las instituciones financieras internacionales, la CEPAL, la calificadora de riesgos Standard and Poors y el New York Times tienen también evaluaciones y proyecciones muy benignas. Solamente el FMI y la revista inglesa The Economist  mantienen algo de escepticismo.

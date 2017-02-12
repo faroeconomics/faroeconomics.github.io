@@ -5,10 +5,11 @@ date: '2016-02-29T07:32:00.002-08:00'
 authors:
 - joseperes
 featured: images/Teaser-2016-02-29.png
-categories:
+tags:
 - Historia
 - Crecimiento y Productividad
-tags: [Bolivia]
+categories:
+- Bolivia
 ---
 Dani Rodrik ha valorado recientemente de forma positiva el crecimiento económico boliviano (aquí). Ello puede explicarse por el hecho de que, a diferencia de gran parte de las economías de América Latina, Bolivia creció en 2015 a una tasa superior al 4%. Ello podría ser resultado también del análisis de la tasa de crecimiento del PIB per cápita en los últimos años: 3.21% anual entre 2004 y 2013 (años de inicio y fin del súper-ciclo de materias primas) en dólares de paridad de poder de compra de 2011.
 

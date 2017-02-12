@@ -5,10 +5,11 @@ date: '2016-02-10T07:32:00.002-08:00'
 authors:
 - juanbravo
 featured: images/Teaser-2016-02-10.png
-categories:
+tags:
 - Empleo y Demografía
 - Microeconomía
-tags: [Chile]
+categories:
+- Chile
 ---
 
 ¿Ha impactado la desaceleración al mercado laboral chileno? Algunos, al observar la tasa de desocupación, que se ubica en 6,1% podrían pensar que no. Lamentablemente este indicador esconde una realidad bastante menos benevolente.

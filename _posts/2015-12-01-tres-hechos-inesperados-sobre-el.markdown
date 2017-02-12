@@ -5,11 +5,11 @@ date: '2015-12-01T13:00:00.000-08:00'
 authors:
 - horaciov
 featured: images/Teaser-2015-12-01.png
-categories:
+tags:
 - Empleo y Demografía
 - Microeconomía
 - Desarrollo Económico
-tags: [Bolivia]
+categories: [Bolivia]
 ---
 
 ¿Recuerdas si tu primer salario o tu primer empleo fueron como esperabas cuando te graduaste? Lo más probable es que no tuviera las características que habías imaginado. Lamentablemente, esto le sucede a muchos jóvenes que concluyen su formación universitaria y deben salir al mercado laboral a enfrentar situaciones y condiciones que no esperaban durante su formación. Si adicionalmente consideramos la importancia del primer trabajo sobre la trayectoria laboral, el llamado efecto cicatriz, el problema del desfase de expectativas tiene consecuencias no solo de corto plazo.

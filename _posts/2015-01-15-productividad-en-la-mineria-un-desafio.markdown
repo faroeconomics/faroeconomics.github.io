@@ -5,10 +5,10 @@ date: '2015-01-15T12:57:00.004-08:00'
 authors:
 - luisgonzales
 featured: images/Teaser-2015-01-15-a.png
-categories:
+tags:
 - Economía de los Recursos
 - Crecimiento y Productividad
-tags: [Chile]
+categories: [Chile]
 ---
 
 En la última década, la minería en Chile ha constituido en promedio un 15% del producto total de la economía, un 60% de las exportaciones y llegó a representar un 20% de los ingresos fiscales. La actividad es una de las principales industrias,  que no sólo aporta recursos a nuestro desarrollo, sino que además ayuda a que el país sea reconocido y respetado en el mundo.

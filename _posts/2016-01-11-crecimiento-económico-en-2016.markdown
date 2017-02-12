@@ -6,10 +6,11 @@ authors:
 - pablocuba
 - luisgonzales
 featured: images/Teaser-2016-01-11.png
-categories:
+tags:
 - Macroeconomía
 - Crecimiento y Productividad
-tags: [Bolivia]
+categories:
+- Bolivia
 ---
 
 Siguiendo el patrón cotidiano a escala global y nacional de exponer, confrontar y evaluar percepciones económicas, en los últimos tres meses organismos nacionales e internacionales han señalado públicamente sus expectativas o proyecciones de crecimiento del PIB boliviano para 2016: 3,5% el Fondo Monetario Internacional (FMI) y el Banco Mundial (BM); 4,5% la Comisión Económica para América Latina y el Caribe (CEPAL); y, 5,0% el gobierno boliviano por medio del Ministerio de Economía y Finanzas Públicas (MEFP).

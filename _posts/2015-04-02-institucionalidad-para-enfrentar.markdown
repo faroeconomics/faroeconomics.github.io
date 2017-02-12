@@ -5,11 +5,11 @@ date: '2015-04-02T14:38:00.002-07:00'
 authors:
 - luisgonzales
 featured: images/Teaser-2015-04-02-b.jpeg
-categories:
+tags:
 - Economía de los Recursos
 - Economía Pública
 - Macroeconomía
-tags: [Bolivia]
+categories: [Bolivia]
 ---
 
 Bolivia entre 1965 a 2015, vivió 45 desastres hidrológicos (37 Inundaciones y 8 deslizamientos de tierras); 24 desastres biológicos y climáticos (12 epidemias y 12 sequías); 7 desastres meteorológicos (5 temperaturas extremas y 2 tormentas severas) y 3 Terremotos que bajo los criterios de la Emergency Database (EM-DAT) de Bélgica, ocurrieron costando en torno a USD 3000 millones sumando al invaluable fallecimiento de 2000 personas y 3 millones de habitantes afectados por estos desastres.   

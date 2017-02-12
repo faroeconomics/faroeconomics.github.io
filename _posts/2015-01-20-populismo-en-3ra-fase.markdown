@@ -5,10 +5,10 @@ date: '2015-01-20T09:32:00.004-08:00'
 authors:
 - luisgonzales
 featured: images/Teaser-2015-01-20-a.jpeg
-categories:
+tags:
 - Macroeconomía
 - Economía Pública  
-tags: [Internacional]
+categories: [Internacional]
 ---
 
 “La Macroeconomía del Populismo” se presentó repetidas veces en la historia económica latinoamericana. En las últimas cuatro décadas, los casos fueron diversos, traumáticos y costosos. Ahora, con matices algo diferentes al pasado, el turno otra vez es de Venezuela y Argentina.

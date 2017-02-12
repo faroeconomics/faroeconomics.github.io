@@ -5,10 +5,11 @@ date: '2016-09-04T07:32:00.002-08:00'
 authors:
 - luisgonzales
 featured: images/Teaser-2016-09-04.png
-categories:
+tags:
 - Crecimiento y Productividad
 - Macroeconomía
-tags: [Chile]
+categories:
+- Chile
 ---
 
 “El Derrumbe” así titula el cuento de 1941 escrito por Gonzalo Drago[^1] que narra la historia sobre las esperanzas de dos cuadrillas de mineros que quedan sepultadas en un derrumbe por la negación a prestar atención a las múltiples señales que observaban y escuchaban al interior de una mina, probablemente de cobre. Esta analogía refleja en parte como las señales que se observan en Latinoamérica y los países mineros ante el derrumbe de los precios de los recursos naturales pueden sepultar o no algunas esperanzas de sus industrias. Chile es uno de muchos países en los cuales la extracción de recursos naturales, en particular la minería, juega un rol muy importante en la actividad económica a través de sus exportaciones. Uno de los aspectos importantes que ha enfrentado la industria de la minería en el último tiempo ha sido la disminución de su productividad.

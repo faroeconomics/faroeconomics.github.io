@@ -6,10 +6,10 @@ authors:
 - pablocuba
 - luisgonzales
 featured: images/Teaser-2015-10-19.png
-categories:
+tags:
 - Conferencias y Workshops
 - Desarrollo Económico
-tags: [Internacional]
+categories: [Internacional]
 ---
 
 

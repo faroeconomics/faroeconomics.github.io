@@ -6,9 +6,9 @@ authors:
 - pablocuba
 - luisgonzales
 featured: images/Teaser-2015-12-23.png
-categories:
+tags:
 - El Faro
-tags: [Bolivia]
+categories: [Bolivia]
 ---
 
 En 1883 William Thomson, más conocido como Lord Kelvin e inventor entre otras cosas de la escala de temperatura absoluta que lleva su nombre, escribió: “… cuando es posible medir aquello de lo que uno habla y expresarlo en termino de números, entonces uno aprende algo al respecto; de otra manera, el conocimiento obtenido es de naturaleza magra e insatisfactoria”.  Este año en El Faro implementamos varios cambios para hacer la experiencia de leer y escribir artículos más amigables, pero también introdujimos herramientas que nos permiten medir nuestro progreso. En esta breve nota queremos contarles a todos ustedes que es lo que hemos logrado en 2015, reflexionar un poco al respecto y fijar algunas metas para 2016.

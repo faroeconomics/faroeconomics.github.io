@@ -5,10 +5,10 @@ date: '2015-01-14T13:28:00.000-08:00'
 authors:
 - luisgonzales
 featured: images/Teaser-2015-01-14-a.png
-categories:
+tags:
 - Crecimiento y Productividad
-- Macroeconomía 
-tags: [Bolivia]
+- Macroeconomía
+categories: [Bolivia]
 ---
 
 Bolivia con un crecimiento promedio de  5.0%, ocupa el quinto lugar  en Latinoamérica en el periodo 2006 a 2013 por detrás de países como Perú (6.6%) o Paraguay (5.3), superando  a  Colombia (4.8%), Ecuador y  Chile con (4.3%), dejando atrás a grandes economías como Brasil (3.6%) y México (2.4%). Si hay una particularidad en esta muestra es que, en la mayoría de ellas, el alto precio de materias primas fue un motor de crecimiento y ante su actual caída, existen expectativas de desaceleración, que en algunas realidades se acentúan con el enfriamiento de los motores internos de crecimiento.

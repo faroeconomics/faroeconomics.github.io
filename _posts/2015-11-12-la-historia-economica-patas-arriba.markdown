@@ -5,11 +5,11 @@ date: '2015-11-12T07:23:00.001-08:00'
 authors:
 - jamorales
 featured: images/Teaser-2015-11-12.jpg
-categories:
+tags:
 - Historia
 - Macroeconomía
 - Economía Pública
-tags: [Bolivia]
+categories: [Bolivia]
 ---
 
 El licenciado Mauricio Ríos García ataca mi artículo "Contrastes e Inconsistencias” (Página Siete 11/10/2015) desde la derecha y el viceministro Jaime Durán Chuquimia lo hace desde el populismo de izquierda. Ríos García ensalza al muy desacreditado patrón oro, que sólo lo defienden los miembros más conservadores del partido republicano de  Estados Unidos y algunos europeos destornillados. El licenciado Durán Chuquimia hace alusiones personales, que las pasaré por alto,  y repite la misma tonada que ya la escuchábamos durante el primer gobierno de Banzer,  de alto crecimiento del PIB y otras maravillas similares.

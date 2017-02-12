@@ -5,11 +5,12 @@ date: '2016-04-12T07:32:00.002-08:00'
 authors:
 - mauriciovargas
 featured: images/Teaser-2016-04-12.png
-categories:
+tags:
 - Pobreza y Bienestar
 - Microeconomía
 - Economía Pública
-tags: [Bolivia]
+categories:
+- Bolivia
 ---
 Bolivia —uno de los países más pobres de América Latina— ha logrado reducir notablemente la desigualdad y la pobreza en los últimos 15 años, gracias a que el crecimiento económico sostenido y alimentado por el superciclo de las materias primas se combinó con políticas públicas focalizadas. Pero no todos los sectores de la economía se beneficiaron durante este proceso, y los avances de aquí en adelante se verán entorpecidos por el fin del auge de las materias primas.
 

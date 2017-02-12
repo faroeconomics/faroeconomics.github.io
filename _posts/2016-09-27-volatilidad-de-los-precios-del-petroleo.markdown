@@ -5,10 +5,11 @@ date: '2016-09-27T07:32:00.002-08:00'
 authors:
 - juanzuleta
 featured: images/Teaser-2016-09-27.png
-categories:
+tags:
 - Economía Internacional
 - Macroeconomía
-tags: [Internacional]
+categories:
+- Internacional
 ---
 De acuerdo con un reciente análisis del Fondo Monetario Internacional (FMI), “la considerable incertidumbre acerca de la trayectoria de los precios del petróleo en el futuro y los determinantes subyacentes de la disminución de los precios han añadido una nueva dimensión de riesgo para las perspectivas de crecimiento global”. En la Figura 1 se presentan datos de volatilidad de los precios West Texas Intermediate (WTI) del petróleo (medida por su coeficiente de variación, en porcentaje)[^1] y crecimiento de la economía mundial (aproximado por el crecimiento del producto interno bruto real de Estados Unidos, en porcentaje) para el período comprendido entre el primer trimestre de 1986  y el segundo trimestre de 2016, donde se puede apreciar una relación negativa entre ambas variables.
 

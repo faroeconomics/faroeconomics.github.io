@@ -5,10 +5,11 @@ date: '2016-06-01T07:32:00.002-08:00'
 authors:
 - jamorales
 featured: images/Teaser-2016-06-01.png
-categories:
+tags:
 - Macroeconomía
 - Economía Pública
-tags: [Venezuela]
+categories:
+- Venezuela
 ---
 
 Las noticias políticas y económicas de Venezuela muestran un deterioro completo de la situación. No solamente que el país está con una inflación anual proyectada por el FMI de 700% y caídas del PIB al ritmo de 6% por año, sino que sufre de graves problemas de abastecimiento. No hay alimentos ni medicinas básicas. El deterioro de los indicadores de progreso social es también mayúsculo.  Nosotros que vivimos la dramática experiencia de la hiperinflación y el desabastecimiento del primer quinquenio de la década de los años 80 no sufrimos, en cambio, mengua en los indicadores de salud. Muy al contrario, la caída de la tasa de mortalidad infantil comenzó en esos años gracias a la inteligente labor del entonces ministro Torres Goitia.

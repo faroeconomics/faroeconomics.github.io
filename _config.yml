@@ -6,7 +6,7 @@ gems:
 
 title: El Faro
 name: El Faro
-description: Linear template for Jekyll
+description: Un blog dedicado a acercar teoría económica al debate público
 paginate: 10
 baseurl: ""
 url: "http://faroeconomics.org"
@@ -19,6 +19,7 @@ kramdown:
   parse_block_html: true
 paginate: 4
 paginate_path: "blog/page:num/"
+permalink: /:categories/:title.html
 
 # Site wide settings
 twitter_username: Faro_economics

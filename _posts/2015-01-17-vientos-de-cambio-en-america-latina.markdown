@@ -6,10 +6,10 @@ authors:
 - luisgonzales
 - juanbravo
 featured: images/Teaser-2015-01-17-a.png
-categories:
+tags:
 - Economía Internacional
-- Macroeconomía 
-tags: [Internacional]
+- Macroeconomía
+categories: [Internacional]
 ---
 
 Recientemente el FMI dio a conocer sus nuevas proyecciones macroeconómicas. El organismo redujo la proyección de crecimiento 2014 para América Latina y el Caribe en 7 décimas, pasando de 2% a un escuálido 1,3%. Sin embargo, este promedio esconde grandes diferencias al interior de la región. Por un lado, hay economías como Venezuela y Argentina que enfrentan una recesión, con perspectivas de que la contracción se prolongue hasta 2015. Otras, como Brasil y Chile crecerán muy poco este año. Finalmente, economías como Bolivia y Colombia se expandirán en forma robusta, con tasas de crecimiento en torno al 5%.

@@ -6,11 +6,12 @@ authors:
 - luisgonzales
 - ricardogonzalez
 featured: images/Teaser-2016-11-13.jpeg
-categories:
+tags:
 - Desarrollo Económico
 - Energía y Medio Ambiente
 - Economía de los Recursos
-tags: [Bolivia]
+categories:
+- Bolivia
 ---
 En una columna anterior (ver este link), afirmamos que la oposición a la construcción del proyecto hidroeléctrico El Bala-Chepete —en los parques Madidi y Pilón Lajas— no constituye una oposición al desarrollo de Bolivia, debido a que los beneficios económicos de llevar adelante el proyecto serían inciertos y bajos —lo primero porque no es evidente hoy que otros países requieran la energía producida por este proyecto y lo segundo porque sería muy costoso llevar dicha energía hacia esos mercados—, y a que los costos asociados a los daños a la biodiversidad de los parques nacionales y a las comunidades indígenas que los habitan, como consecuencia de la inundación parcial de ambos parques, serían ciertos y elevados.
 

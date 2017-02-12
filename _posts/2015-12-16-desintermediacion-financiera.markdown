@@ -5,10 +5,10 @@ date: '2015-12-16T11:23:00.002-08:00'
 authors:
 - fabianc
 featured: images/Teaser-2015-12-16.png
-categories:
+tags:
 - Economía Financiera
 - Macroeconomía
-tags: [Bolivia]
+categories: [Bolivia]
 ---
 
 Nuestra sociedad adolece de desinformación como una de las más importantes herencias del subdesarrollo y la deficiente educación imperante a todo nivel. Un ejemplo de muchos está en lo concerniente a los Sistemas Financieros (SF) y el rol de los bancos.  

@@ -5,10 +5,11 @@ date: '2016-01-17T07:32:00.002-08:00'
 authors:
 - josevalente
 featured: images/Teaser-2016-01-17.png
-categories:
+tags:
 - Macroeconomía
 - Economía Pública
-tags: [Ecuador]
+categories:
+- Ecuador
 ---
 
 Grecia ha estado viviendo años difíciles, el sobreendeudamiento y déficit fiscal pasaron la cuenta obligando un fuerte ajuste. Al encontrarse atados al Euro, este ajuste no ha podido realizarse mediante una depreciación del tipo de cambio, sino que ha tenido que venir por medio de un recorte al gasto público y un ajuste a los salarios: camino siempre difícil y que ha repercutido en diversas aristas, desde la política hasta la calidad de vida de los griegos.
