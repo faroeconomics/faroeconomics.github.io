@@ -8,7 +8,7 @@ featured: images/Teaser-2016-10-10.png
 tags:
 - Economía Internacional
 - Macroeconomía
-categories: 
+categories:
 - Internacional
 ---
 
@@ -38,7 +38,7 @@ La selección de años se ha basado en las oscilaciones coyunturales de los prec
 Considerando el índice internacional de precios de commodities del FMI, hemos seleccionado 3 momentos clave: el año 2008 cuando dicho índice alcanzó su máximo histórico, a comienzos de 2016 cuando alcanzó el mínimo en el periodo elegido y el 2010 como año intermedio entre dichos extremos. Dado que los datos para 2016 no se hallan disponibles, hemos tomado el 2015 como proxy para estos cálculos. En el gráfico siguiente se puede apreciar el índice de los precios internacionales de materias primas para el periodo 2006 a 2016.
 
 <div class="frame-container">
-  <iframe frameborder="0" scrolling="no" src="//plot.ly/~faro/106.embed"></iframe>
+  <iframe src="//plot.ly/~faro/106.embed"></iframe>
 </div>
 Fuente: International Monetary Fund. Elaboración propia.
 

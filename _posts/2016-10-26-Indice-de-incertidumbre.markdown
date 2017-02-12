@@ -24,7 +24,7 @@ En concreto, el índice se basa en la cobertura que le ha dado el diario El Merc
 Es importante notar que la cantidad de artículos publicados por el diario en cada mes puede variar, subestimando o sobreestimando la presencia de incertidumbre. Para ello, dividimos la serie mensual de artículos seleccionados por el número total de artículos publicados en cada uno de los meses. Finalmente, la serie resultante se divide por el promedio de ésta entre enero de 1993 y diciembre del 2015 y se multiplica por 100, con el objetivo de que la media de la serie resultante sea 100.
 
 <div class="frame-container">
-<iframe frameborder="0" scrolling="yes" src="//plot.ly/~faro/109.embed"></iframe>
+<iframe src="//plot.ly/~faro/109.embed"></iframe>
 </div>
 
 El panel A de la figura 1 presenta la evolución del Índice Histórico de Incertidumbre Económica de Chile (IEC Histórico). Como se puede apreciar, el nivel de incertidumbre ha variado considerablemente en las últimas décadas, donde los peaks reflejan la crisis asiática, la crisis financiera y la reciente contracción del mercado accionario chino. Con respecto a los eventos internos, tanto el envío de la reforma laboral impulsada por el gobierno de la Presidenta Bachelet durante el año 2015, como el terremoto del año 2010 fueron eventos donde se evidenció un incremento en la incertidumbre económica.
