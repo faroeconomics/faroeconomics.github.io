@@ -8,7 +8,7 @@ title: El Faro
 name: Faro
 description: Linear template for Jekyll
 paginate: 10
-url:"http://faroeconomics.org"
+url: "http://faroeconomics.org"
 
 # Build settings
 highlighter: rouge
