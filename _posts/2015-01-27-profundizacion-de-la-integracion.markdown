@@ -8,7 +8,7 @@ authors:
 featured: images/Teaser-2015-01-27-a.jpeg
 categories:
 - Economía Internacional
-- Macroeconmía
+- Macroeconomía
 tags: [Internacional]
 ---
 

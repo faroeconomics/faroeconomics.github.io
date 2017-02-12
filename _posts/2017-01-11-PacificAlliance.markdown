@@ -34,7 +34,7 @@ Even though the previous analysis sheds some light about the vulnerabilities fac
 
 On the one hand, Chile shows negative contributions in the last quarters of the sample due to the pronounced drop in copper prices. These shocks account for 45.4% of the growth rate on average between 2013Q1 – 2016Q3. On the other hand, the effect of the commodity related shocks in Peru are quite different than the Chilean case. Even though copper is the most important commodity in Peru’s exports bundle, commodities production is more diversified. Copper represents 42% of commodities exports in Peru, gold accounts for 31%, oil 7% and the 20% remaining is divided between other like zinc and lead. The results show that since 2013 gold, zinc and lead have registered increases, and these commodities represents 51% of total commodities exports. Thus diversification in commodities production explains why commodity shocks had opposite effect on historical growth rates in Peru.
 
-# Figure 1:Historical decomposition of quarterly GDP growth rates (y-o-y) of Alliance Pacific Countries. 2013 Q1 -2016 Q3
+# Figure 1:Historical decomposition of quarterly GDP growth rates (y-o-y) of TPA Countries. 2013Q1 -2016Q3
 <div class="frame-container">
 ![Figura1](/assets/images/Fig-2017-01-11.png){:class="img-responsive"}
 </div>
