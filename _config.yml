@@ -5,7 +5,7 @@ gems:
   - jekyll-paginate
 
 title: El Faro
-name: Faro
+name: El Faro
 description: Linear template for Jekyll
 paginate: 10
 baseurl: ""
