@@ -35,8 +35,6 @@ authors:
  pablocuba:
    name: Pablo Cuba Borda
    display_name: Pablo
-   email: pablo.a.cubaborda@frb.gov
-   web: http://www.pcubaborda.net
    twitter: pcubab
  faroadmin:
    name: Faro Admin
@@ -117,6 +115,6 @@ authors:
    twitter: pmendiet
  fernandocorrales:
    name: Luis Fernando Corrales
-   display_name: Luis Fernando Corrales
+   display_name: LFCorrales
    email: lfcorrales@uc.cl
    twitter: Corrales_Fer
