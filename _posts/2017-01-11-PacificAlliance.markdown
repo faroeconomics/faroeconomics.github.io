@@ -15,11 +15,11 @@ It is not news that Latin America’s exports depend heavily on commodities. Par
 
 Several authors have studied the effects of commodity shocks in Latin American economies. For example, Gruss (2014) has estimated the effects of changes in commodity prices – driven by Chinese demand – on economic growth of Latin American countries. The results show that Latin American business cycles are heavily reliant on commodity prices. In response to a drop of 1% of China’s GDP, and consequently a drop in commodity prices of 3% (even 8% in some countries), there is a downfall of 0.5% on average in Latin American countries’ GDP.
 
-Because of its trade and investment linkages, it seems interesting to decompose the contribution of commodity shocks, not just price shocks but also commodity sector productivity shocks, in the performance of TPA countries in order to study its relevance for this group. Here, I use the Model for Analysis and Simulations (MAS) developed by Medina and Soto (2007), and tailored for the Chilean economy. The MAS is a Dynamic Stochastic General Equilibrium model and its structure is considered applicable for other economies of the TPA.  For each country, parameters of the model were partly calibrated, and others estimated with Bayesian methods.
+Because of its trade and investment linkages, it seems interesting to decompose the contribution of commodity shocks, not just price shocks but also commodity sector productivity shocks, in the performance of TPA countries in order to study its relevance for this group. Here, I use the Model for Analysis and Simulations (MAS) developed by Medina and Soto (2007) and developed and adapted by Cerda R and Gonzales-Carrasco L (2017), and tailored for the Chilean economy. The MAS is a Dynamic Stochastic General Equilibrium model and its structure is considered applicable for other economies of the TPA[^1].  For each country, parameters of the model were partly calibrated, and others estimated with Bayesian methods[^2].
 
 # Commodity price shocks
 
-As a first step, I describe the effects of commodity price shocks. For the Chilean, Colombian and Mexican cases I found that one standard deviation shock  in the commodities price index induced an expansion of production, a real exchange rate appreciation and a reduction in the nominal interest rate. The shock causes a downturn in inflation that is directly related with a fall in imports prices due to real appreciation. These first round effects on inflation generate a further decline in the nominal interest rate. The expansive effect on production lasts around two years, and then its magnitude diminishes significantly because of the real exchange rate appreciation and the consequently lost in competitiveness. The effects on inflation and on the nominal interest rate last until a year after the shock, even though effects over these variables are small.
+As a first step, I describe the effects of commodity price shocks . For the Chilean, Colombian and Mexican cases I found that one standard deviation shock  in the commodities price index induced an expansion of production, a real exchange rate appreciation and a reduction in the nominal interest rate. The shock causes a downturn in inflation that is directly related with a fall in imports prices due to real appreciation. These first round effects on inflation generate a further decline in the nominal interest rate. The expansive effect on production lasts around two years, and then its magnitude diminishes significantly because of the real exchange rate appreciation and the consequently lost in competitiveness. The effects on inflation and on the nominal interest rate last until a year after the shock, even though effects over these variables are small.
 
 In a similar exercise we can obtain a different lesson from the case of Peru. For this country, the model was adjusted by removing the fiscal rule from the baseline model because Peru doesn’t have an explicit structural budget balance rule, that corrects by extraordinary commodities and cyclical revenues, in the same fashion of the other TPA countries. Then the fiscal policy is more expansive in response to commodity shocks. In fact, when we compare the magnitude of first round effects of the commodity price shock on production, I found that Peru has the strongest response among Alliance members (GDP rises about 1.5% in deviation from its steady state versus 0.05%, 0.02% and 0.2% for Chile, Colombia and Mexico, respectively).
 
@@ -31,7 +31,7 @@ In the case of commodity production shocks the results are similar across countr
 
 # Contribution of shocks
 
-Even though the previous analysis sheds some light about the vulnerabilities faced by Pacific Alliance countries respect to both price and production shocks, now I turn to the historical decomposition of the growth rate of each country in order to analyze the contribution of commodities price shocks. It’s important to mention that the model has fifteen different shocks that were divided in four groups: 1) supply , 2) demand , 3) external , 4) commodity . Figure 1 shows the historical decomposition of growth rate of real GDP for TPA countries. The first finding from this exercise is the importance of the commodity shocks to explain the ups and downs of GDP. In the last years the effect of commodity related shocks has had heterogeneous impacts amongst TPA countries.
+Even though the previous analysis sheds some light about the vulnerabilities faced by Pacific Alliance countries respect to both price and production shocks[^3], now I turn to the historical decomposition of the growth rate of each country in order to analyze the contribution of commodities price shocks. It’s important to mention that the model has fifteen different shocks that were divided in four groups: 1) supply[^4] , 2) demand[^5], 3) external[^6], 4) commodity[^7]. Figure 1 shows the historical decomposition of growth rate of real GDP for TPA countries. The first finding from this exercise is the importance of the commodity shocks to explain the ups and downs of GDP. In the last years the effect of commodity related shocks has had heterogeneous impacts amongst TPA countries.
 
 On the one hand, Chile shows negative contributions in the last quarters of the sample due to the pronounced drop in copper prices. These shocks account for 45.4% of the growth rate on average between 2013Q1 – 2016Q3. On the other hand, the effect of the commodity related shocks in Peru are quite different than the Chilean case. Even though copper is the most important commodity in Peru’s exports bundle, commodities production is more diversified. Copper represents 42% of commodities exports in Peru, gold accounts for 31%, oil 7% and the 20% remaining is divided between other like zinc and lead. The results show that since 2013 gold, zinc and lead have registered increases, and these commodities represents 51% of total commodities exports. Thus diversification in commodities production explains why commodity shocks had opposite effect on historical growth rates in Peru.
 
@@ -46,5 +46,22 @@ Overall, the effect of commodity shocks on TPA countries is mixed, because of di
 
 # References
 
-Gruss, Bertrand. (2014): “After the Boom-Commodity Prices and Economic Growth in Latin América and the Caribbean”. IMF Working paper WP/14/154.
-Medina, J. P. and C. Soto. (2007): “The Chilean Business Cycles Through the Lens of a Stochastic General Equilibrium Model” Central Bank of Chile Working paper N° 457.
+[^1]: [1] All Pacific Alliance members are commodity exporter economies. Additionally, they have similar monetary and fiscal policy arrangements. They all follow an inflation targeting scheme. They have a similar fiscal rule, except for Peru. Also, they are countries with high trade openness, with a trade openness index of 54,2% vis-à-vis average 42% for the rest of Latin American countries
+
+[^2]: [2] The exogenous shocks of the model have a AR (1) process, the Bayesian calculations were made for the persistency parameters and for the standard deviation of the white noise innovations of the shock processes.
+
+[^3]: [3] In this case, the standard deviation shock is specific for each country, since each country have an specific commodities prices index. 
+
+[^4]: [4] Transitory and permanent productivity shocks, commodities production shocks, investment adjustment costs, depreciation shocks and labor supply shock.
+
+[^5]: [5] Preference shock, government expenditure shock and monetary policy shock. 
+
+[^6]: [6] Oil Price shock, foreign production shock, foreign interest rate shock, foreign inflation shock and imports price shock. 
+
+[^7]: [7] Commodity price and production shocks. 
+ 
+[^8]: [8] Gruss, Bertrand. (2014): “After the Boom-Commodity Prices and Economic Growth in Latin América and the Caribbean”. IMF Working paper WP/14/154.
+
+[^9]: [9] Medina, J. P. and C. Soto. (2007): “The Chilean Business Cycles Through the Lens of a Stochastic General Equilibrium Model” Central Bank of Chile Working paper N° 457.
+
+[^10]: [10] Cerda R. and Gonzales-Carrasco L. (2017): “Pacific Alliance and Commodity Vulnerabilities” Clapes UC Working paper.
