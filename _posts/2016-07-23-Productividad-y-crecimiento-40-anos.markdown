@@ -12,7 +12,7 @@ tags:
 - Desarrollo Económico
 categories:
 - Bolivia
-permalink: /:year/:month/:title.html
+permalink: /:year/:month/{{:title.html | downcase}}
 ---
 
 Es difícil pensar en temas que atraigan más atención de economistas y políticos que el explicar ¿Por qué algunos países son más ricos que otros? y ¿Qué se puede hacer para replicar la experiencia de los países más exitosos? Y es que, la necesidad de entender la mecánica del crecimiento económico es comparable solamente con la obsesión de Borges por el Zahir.[^1]
