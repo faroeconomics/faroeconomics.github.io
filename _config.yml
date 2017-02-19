@@ -10,7 +10,7 @@ description: Linear template for Jekyll
 paginate: 10
 baseurl: ""
 url: "http://faroeconomics.org"
-permalink: /:year/:month/:title.html
+permalink: /:categories/:title.html
 
 # Build settings
 highlighter: rouge
