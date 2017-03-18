@@ -21,8 +21,9 @@ We collected information from the conference program from its 2000 and 2016 edit
 Another surprising feature of the data we gathered relates to the field in which women participate more. Their research seems to be concentrated in very specific areas, for example in figure below we show the distribution of papers co-authored by women using the JEL classification of each article. Broadly speaking women seem to be more involved in research related to microeconomic oriented fields (applied microeconomics/development/environmental economics). Out of all the papers with at least one woman as co-author, 83 fell under the big umbrella of microeconomics. The remainder 24 papers were related to topics broadly related to the field of macroeconomics (monetary economics/international and financial economics). At face value this might just reflect women’s particular preferences for certain topics or a particular focus of the conference itself. On the other hand this evidence suggests the presence of some barriers for women to participate more actively in macroeconomics. The truth is that we can’t know unless we keep better track of women participation and their opportunities in different fields.
 
 <div class="frame-container">
-<iframe src="//plot.ly/~faro/115.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~faro/115.embed"></iframe>
 </div>
+
 
 # Collecting better data
 
