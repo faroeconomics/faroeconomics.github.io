@@ -3,8 +3,8 @@ layout: post
 title: 'Could Mining Countries Obtain Additional Resource Revenues? Evidence from a Commodity Super-Cycle'
 date: '2017-04-09T07:32:00.002-08:00'
 authors:
-- operello
 - ccifuentes
+- operello
 featured: images/Teaser-2017-04-09.png
 categories:
 - Internacional
