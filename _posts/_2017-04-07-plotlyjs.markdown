@@ -1,0 +1,17 @@
+---
+layout: post
+title: 'Testing Js'
+date: '2017-03-16T07:32:00.002-08:00'
+authors:
+- luisgonzales
+featured: images/Teaser-2017-03-16.png
+categories:
+- Bolivia
+tags:
+- Macroeconomia
+- Economia de los Recursos
+- Energía y Medio Ambiente
+---
+
+
+ABC
