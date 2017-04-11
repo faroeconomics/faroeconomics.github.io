@@ -9,7 +9,7 @@ featured: images/Teaser-2017-04-09.png
 categories:
 - Internacional
 tags:
-- Macroeconomia
+- Macroeconomía
 - Economia de los Recursos
 - Desarrollo Económico
 ---

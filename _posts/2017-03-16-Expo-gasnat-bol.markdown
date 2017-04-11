@@ -8,7 +8,7 @@ featured: images/Teaser-2017-03-16.png
 categories:
 - Bolivia
 tags:
-- Macroeconomia
+- Macroeconomía
 - Economia de los Recursos
 - Energía y Medio Ambiente
 ---
