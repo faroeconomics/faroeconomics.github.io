@@ -33,7 +33,7 @@ The graph points out the countries that should have been the most affected by th
 
 <p></p>
 
-The magnitude of the 2000’s commodity super-cycle seems clear, as they show a notorious increase in their mining CPI between 2001 and 2011. Using the results from the system-GMM estimations of Larraín and Perelló (2017), we are able to compute the marginal effect of mining rents on economic growth given the country’s concentration level and institutional framework at the beginning of the “boom” period. The marginal effect corresponds to the impact on economic growth from a 1 percentage point increase in the CPI, but we can also compute the overall effect of the boom period, by quantifying the magnitude of the CPI’s change from 2001 to 2011 for each country. The following table briefly presents the results of these estimations.
+The magnitude of the 2000’s commodity super-cycle seems clear, as they show a notorious increase in their mining CPI between 2001 and 2011. Using the results from the system-GMM estimations of Larraín and Perelló (2017), we are able to compute the marginal effect of mining rents on economic growth given the country’s concentration level and institutional framework at the beginning of the “boom” period. The marginal effect corresponds to the impact on economic growth from a 1 percentage point increase in the CPI, but we can also compute the overall effect of the boom period, by quantifying the magnitude of the CPI’s change from 2001 to 2011 for each country. The following table briefly presents the results of these estimations.AAA
 
 # Marginal Effects of Mining Revenues on Growth
 
