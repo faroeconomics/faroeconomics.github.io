@@ -5,6 +5,8 @@ date: '2017-04-27T07:32:00.002-08:00'
 authors:
 - luisgonzales
 featured: images/Teaser-2017-04-27.png
+excerpt: En 1543, Nicolas Copérnico a puertas de su muerte y consciente de provocar una gran revolución, publica De revolutionibus orbium coelestium (Sobre las revoluciones de las esferas celestes) donde sitúa al sol como el centro gravitacional de los planetas como la tierra. Hoy, se está gestando otra revolución, esta vez en la economía de la energía, con igual protagonista, el sol.
+
 categories:
 - Chile
 tags:
@@ -12,7 +14,8 @@ tags:
 - Desarrollo Económico
 - Energía y Medio Ambiente
 ---
-En 1543, Nicolas Copérnico a puertas de su muerte y consciente de provocar una gran revolución, publica *De revolutionibus orbium coelestium* (Sobre las revoluciones de las esferas celestes) donde sitúa al sol como el centro gravitacional de los planetas como la tierra. Hoy, se está gestando otra revolución, esta vez en la economía de la energía, con igual protagonista, el sol.
+
+En 1543, Nicolas Copérnico a puertas de su muerte y consciente de provocar una gran revolución, publica De revolutionibus orbium coelestium (Sobre las revoluciones de las esferas celestes) donde sitúa al sol como el centro gravitacional de los planetas como la tierra. Hoy, se está gestando otra revolución, esta vez en la economía de la energía, con igual protagonista, el sol.
 
 En el último sexenio, uno de los cuestionantes más importantes al momento de pensar en el futuro de la tierra es el desafío que implica el cambio climático y sus impactos económicos. Uno de los principales determinantes de la aceleración del cambio climático es la emisión de los gases de efecto invernadero (GHG por sus siglas en inglés) que en 2016, según el International Energy Agency (IEA),  completan tres años consecutivos en mantenerse contantes en 32.1 mil millones de toneladas de CO2 a nivel global.  Del total, el 42% proviene de Generación Eléctrica, 23% Transporte (la mayoría transporte terrestre 17%), 19% Manufactura y construcción y el resto atribuido a otros sectores. Este freno en el crecimiento de las emisiones a nivel global se debe principalmente a la sustitución de combustibles fósiles por energías renovables.
 
