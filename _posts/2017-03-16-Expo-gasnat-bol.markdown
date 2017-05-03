@@ -37,7 +37,7 @@ Por otra parte, la parte “descendente” del ciclo se observa en la siguiente 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~faro/129.embed"></iframe>
 </div>
 
-Cuando los precios internacionales del petróleo comenzaron a disminuir (y así también lo hicieron los precios de exportación del gas boliviano) no fueron pocas las voces que explicaron a la población que dicha disminución sería compensada con mayor producción de gas. Los datos… esos datos testarudos nos cuentan que ello no fue posible.
+Cuando los precios internacionales del petróleo comenzaron a disminuir (y así también lo hicieron los precios de exportación del gas boliviano) no fueron pocas las voces que explicaron a la población que dicha disminución sería compensada con mayor producción de gas. Los datos, esos datos testarudos nos cuentan que ello no fue posible.
 
 
 [^1]: [1]  Este artículo fue originalmente públicado en el blog de Mauricio Medinanceli [link](http://mmedinaceli.com/index.php?lang=es)
