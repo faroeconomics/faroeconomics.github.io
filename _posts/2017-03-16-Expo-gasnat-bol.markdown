@@ -12,7 +12,7 @@ tags:
 - Economia de los Recursos
 - Energía y Medio Ambiente
 ---
-Los dos mercados de exportación del gas natural boliviano son Brasil y Argentina, el primero gestado durante los últimos treinta años y el segundo activado el año 2004 y consolidado posteriormente[^1]. El hecho es que a las personas que nos dedicamos a este sector nos gusta analizar las estadísticas y, de esta forma, intentar dilucidar una realidad que muchas veces escapa a nuestras manos.
+Los dos mercados de exportación del gas natural boliviano son Brasil y Argentina, el primero gestado durante los últimos treinta años y el segundo activado el año 2004 y consolidado posteriormente[^1]. El hecho es que a las personas que nos dedicamos a este sector nos gusta analizar las estadísticas y, de esta forma, intentar dilucidar una realidad que muchas veces escapa a nuestras manos. ABC
 
 Bien, en esta oportunidad quiero presentarles algunas realidades de la exportación de gas natural boliviano a la república argentina. Para ello utilicé… ¡Oh cuánta ironía! los datos de importación publicados por el Ministerio de Minería y Energía del hermano país donde la información que publicada es hasta Noviembre del año 2016… algo que merece mis más sinceras felicitaciones. No cabe duda que la información ágil y transparente es reflejo de que no existe nada que ocultar.
 
