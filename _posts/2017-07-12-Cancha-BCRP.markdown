@@ -14,7 +14,6 @@ tags:
 - Economía Internacional
 - Desarrollo Económico
 ---
-
 A inicios de año, las esperanzas de la región estaban puestas en el dinamismo esperado para la economía peruana. Sin embargo, en un par de meses, la situación cambió drásticamente. Así, mientras a principios de año las expectativas de crecimiento para 2017 estaban en torno a 4,1%, a la fecha están cercanas a 3,0%. Esta corrección en las expectativas estuvo impulsada por dos factores. El primero de ellos son los proyectos de infraestructura: el caso Lava Jato no solo llevó a una paralización del proyecto del Gasoducto del Sur, sino que además generó un mayor escrutinio en el resto de los proyectos. Además, la construcción de la Línea 2 del Metro ha sido más lenta de lo originalmente esperado. El segundo es el efecto sobre la economía del Niño Costero que afectó las zonas norte y centro del país, y que provocó que entre febrero y abril la economía creciera menos de 1% año a año.[^1]
 
 # Figura 1: Crecimiento esperado de la economía peruana: 2017-2018
