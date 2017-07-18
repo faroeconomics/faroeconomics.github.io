@@ -20,7 +20,7 @@ Según datos de la Organización para la Cooperación y el Desarrollo Económico
 
 Los costos de eficiencia que generan algunos impuestos tampoco son menores. A modo de ejemplo, la Fundación de Investigaciones Económicas Latinoamericanas (2015) señala que los impuestos sobre los ingresos del trabajo generan una “cuña” entre el costo para las empresas y el salario neto que recibe el trabajador. Esto puede provocar un aumento del desempleo y del trabajo informal e inclusive inducir sustitución de trabajo por capital. Sin embargo, el impacto dependerá de las elasticidades de demanda y de oferta[^2]
 
-# Figura 1: Ingresos Tributarios en porcentaje del PIB
+# Figura 1: Ingresos Tributarios (% del PIB)
 
 <div class="frame-container">
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/186.embed"></iframe>
@@ -43,10 +43,10 @@ No es casualidad que la historia argentina este repleta de crisis inflacionarias
 
 Si bien en la Argentina durante los ’90 se llevaron a cabo una serie de reformas de libre mercado, las políticas económicas posteriores a la crisis financiera y económica de 2001 volvieron a darle un lugar central al estado. Muchas firmas que pasaron a manos privadas durante los ’90 se volvieron a estatizar a partir de 2003; se otorgaron millonarios subsidios a los servicios públicos tales como el transporte y a la energía; se estatizó el sistema de jubilaciones; entre otras. Tal es así que el gasto público consolidado pasó del 29,11% en 2002 al 47,14% en 2015 en contraste con otras realidades latinoamericanas como Chile que mantuvo el gasto en torno al 20% (Figura 3).
 
-# Figura 3: Tasa Tributaria Total (% utilidades comerciales)
+# Figura 3: Gasto público consolidado (% del PIB)
 
 <div class="frame-container">
-<iframe width="900" height="600" frameborder="0" scrolling="no" src="//plot.ly/~faro/188.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/190.embed"></iframe>
 </div>
 
 <p></p>
@@ -54,7 +54,7 @@ Si bien en la Argentina durante los ’90 se llevaron a cabo una serie de reform
 
 Tal como lo señala Richardson (2009), el ciclo expansivo de los commodities junto con los altos impuestos a la exportación de soja (reintroducidos en 2002 tanto para la soja como para otros productos agrícolas), permitieron al gobierno argentino de entonces financiar políticas populistas (entre ellas programas redistributivos y re-estatización de empresas) y al mismo tiempo sostener altas tasas de crecimiento evitando una hiperinflación o crisis de balanza de pagos[^6].Si bien es cierto lo anterior, la expansión fiscal ocurrida después de la crisis de finales de 2001 tuvo como consecuencia directa un significativo aumento en la presión fiscal, pasando de pasando de 18,4% en 2002 a 32,1% en 2015. Los datos muestran que, en las últimas décadas, los países con mayor carga fiscal han experimentado menores tasas de crecimiento (Figura 4)
 
-# Figura 4: Crecimiento económico vs. Ingresos Tributarios (% PIB)
+# Figura 4: Crecimiento económico vs. Ingresos Tributarios (% del PIB)
 
 <div class="frame-container">
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~faro/192.embed"></iframe>
