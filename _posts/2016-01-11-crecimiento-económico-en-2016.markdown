@@ -3,8 +3,7 @@ layout: post
 title: 'Crecimiento economico en 2016: ¿Quién tiene la razón?'
 date: '2016-01-11T07:32:00.002-08:00'
 authors:
-- pablocuba
-- luisgonzales
+- pablomendieta
 featured: images/Teaser-2016-01-11.png
 tags:
 - Macroeconomía
