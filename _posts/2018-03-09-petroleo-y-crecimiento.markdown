@@ -22,7 +22,7 @@ __Etapa Estable (periodo 2013-2014)__, el precio del petróleo se mantuvo relati
 __Etapa de Descenso (periodo 2014-2016)__, el precio del petróleo experimentó un significativo descenso, registrando en julio de 2014 un valor de $us108,4 por barril mientras que en febrero de 2016 un valor de $us31,1. Esta etapa estuvo definida principalmente por la explotación rampante del petróleo en EEUU, el auge de producción del petróleo por parte de los países de la Organización de Países Productores y Exportadores de Petróleo - OPEP, y la desaceleración de los mercados en Europa y Asia.  
 
 
-# Figura 1: La Implicancia del Precio del Petróleo en la Economía Boliviana
+# Figura 1: Precio del Petróleo (WTI)
 
 ![Figura1](/assets/images/Fig1-2018-03-09.png){:class="img-responsive"}
 
