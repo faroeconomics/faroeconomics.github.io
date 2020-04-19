@@ -18,7 +18,7 @@ No hay duda de que aplacar la crisis sanitaria causada por la pandemia del coron
 
 Antes de continuar, necesitamos introducir dos conceptos: la tasa de interés real y la tasa de interés natural de la economía. La tasa de interés real refleja costo de oportunidad del consumo entre dos periodos tiempo. La tasa de interés natural es la tasa de interés que refleja costo de oportunidad del consumo cuando la economía puede usar todos los factores de producción, lo que equivale a decir que estamos en pleno empleo. La tasa de interés real se puede observar directamente y puede ser afectada por decisiones de política económica, mientras que la tasa de interés natural no es directamente observable, se determina por factores estructurales de la economía y por tanto es más difícil de influenciar en el corto plazo. En términos simples, el objetivo de la política de estabilización es alinear ambas tasas para que la economía se encuentre en pleno empleo.
 
-__La Economía Pre-Pandemia__
+__La economía pre-pandemia__
 
 Supongamos que antes de la pandemia vivimos en una economía que existe por dos periodos: hoy y mañana. En nuestra economía hay una sola persona que puede trabajar un máximo de 8 horas por día y puede producir 1 manzana por cada 4 horas trabajadas. Asumamos también que la utilidad de comer una manzana hoy es ligeramente superior a comer una manzana mañana, y para ser específicos supongamos que la utilidad mañana es 0.99 veces la utilidad de hoy. Este “factor de impaciencia” es una de las características estructurales de nuestra economía.  En el pleno empleo de nuestra economía, se trabajan 8 horas hoy y 8 horas mañana, se produce un total de 4 manzanas y se consumen 4 manzanas. La tasa de interés real en esta economía es igual a la tasa de interés natural y equivale a 1% = 100x(1-0.99). A dicha tasa de interés, resulta optimo igualar el consumo de manzanas en ambos periodos.
 
@@ -49,5 +49,4 @@ Los ejemplos anteriores resaltan varios puntos. Primero, el diseño de la polít
 
 [^1]: [1] Este ejemplo esta inspirado en el trabajo de  Guerrieri, V. & Lorenzoni, G. & Straub, L. & Werning, I. (2020). __Macroeconomic Implications of COVID-19: Can Negative Supply Shocks Cause Demand Shortages?__. *Mimeo*. [https://economics.mit.edu/files/19351](https://economics.mit.edu/files/19351).
 
-[^2]: [2] El mecanismo de este ejemplo fue explorado cuantitativamente en:  Challe, E.(2020). __Uninsured Unemployment Risk and Optimal Monetary Policy in a Zero-Liquidity Economy__. *American Economic Journal: Macroeconomics, vol. 12, no. 2, April 2020*.
-.[https://www.aeaweb.org/articles?id=10.1257/mac.20180207](https://www.aeaweb.org/articles?id=10.1257/mac.20180207).
+[^2]: [2] El mecanismo de este ejemplo fue explorado cuantitativamente en:  Challe, E.(2020). __Uninsured Unemployment Risk and Optimal Monetary Policy in a Zero-Liquidity Economy__. *American Economic Journal: Macroeconomics, vol. 12, no. 2, April 2020*.[https://www.aeaweb.org/articles?id=10.1257/mac.20180207](https://www.aeaweb.org/articles?id=10.1257/mac.20180207).
