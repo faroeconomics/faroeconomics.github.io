@@ -39,6 +39,44 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 
 </script>
 
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: [
+      "MathMenu.js",
+      "MathZoom.js",
+      "AssistiveMML.js",
+      "a11y/accessibility-menu.js"
+    ],
+    jax: ["input/TeX", "output/CommonHTML"],
+    TeX: {
+      extensions: [
+        "AMSmath.js",
+        "AMSsymbols.js",
+        "noErrors.js",
+        "noUndefined.js",
+      ]
+    }
+  });
+  MathJax.Hub.Register.StartupHook("TeX Jax Ready",function () {
+    var TEX = MathJax.InputJax.TeX;
+    var COLS = function (W) {
+      var WW = [];
+      for (var i = 0, m = W.length; i < m; i++)
+        {WW[i] = TEX.Parse.prototype.Em(W[i])}
+      return WW.join(" ");
+    };
+    TEX.Definitions.Add({
+      environment: {
+        psmallmatrix: ['Array',null,'(',')','c',COLS([1/3]),".2em",'S',1],
+      }
+    });
+  });
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js">
+</script>
+
+
 
 <body>
 
@@ -126,6 +164,8 @@ var myFunc = function (link) {
 <ul class="codinfox-category-list">
 
 <div class="row">
+  
+   
   
    
   
@@ -236,6 +276,13 @@ var myFunc = function (link) {
   
    
     <section class="3u">
+      <h6><a href="/bolivia/macroeconomia-y-pandemia.html">Rigideces Nominales y Ajuste Macroeconomico</a></h6>
+      <a href="/bolivia/macroeconomia-y-pandemia.html" class="image full"><img src="/assets/images/Teaser-2016-11-13.jpg" alt="" height="185" width="30"></a>
+    </section>
+    
+  
+   
+    <section class="3u">
       <h6><a href="/bolivia/macroeconomia-y-pandemia.html">Política Macroeconómica Durante una Pandemia</a></h6>
       <a href="/bolivia/macroeconomia-y-pandemia.html" class="image full"><img src="/assets/images/Teaser-2016-11-13.jpg" alt="" height="185" width="30"></a>
     </section>
@@ -284,8 +331,8 @@ var myFunc = function (link) {
   
    
     <section class="3u">
-      <h6><a href="/bolivia/productividad-y-crecimiento-40-anos.html">Productividad y Crecimiento: 40 años perdidos en Bolivia</a></h6>
-      <a href="/bolivia/productividad-y-crecimiento-40-anos.html" class="image full"><img src="/assets/images/Teaser-2016-07-23.png" alt="" height="185" width="30"></a>
+      <h6><a href="/bolivia/Productividad-y-crecimiento-40-anos.html">Productividad y Crecimiento: 40 años perdidos en Bolivia</a></h6>
+      <a href="/bolivia/Productividad-y-crecimiento-40-anos.html" class="image full"><img src="/assets/images/Teaser-2016-07-23.png" alt="" height="185" width="30"></a>
     </section>
     
   
@@ -325,8 +372,8 @@ var myFunc = function (link) {
   
    
     <section class="3u">
-      <h6><a href="/bolivia/crecimiento-econo-mico-en-2016.html">Crecimiento economico en 2016: ¿Quién tiene la razón?</a></h6>
-      <a href="/bolivia/crecimiento-econo-mico-en-2016.html" class="image full"><img src="/assets/images/Teaser-2016-01-11.png" alt="" height="185" width="30"></a>
+      <h6><a href="/bolivia/crecimiento-econ%C3%B3mico-en-2016.html">Crecimiento economico en 2016: ¿Quién tiene la razón?</a></h6>
+      <a href="/bolivia/crecimiento-econ%C3%B3mico-en-2016.html" class="image full"><img src="/assets/images/Teaser-2016-01-11.png" alt="" height="185" width="30"></a>
     </section>
     
   
@@ -450,6 +497,8 @@ var myFunc = function (link) {
 <ul class="codinfox-category-list">
 
 <div class="row">
+  
+   
   
    
   
@@ -636,6 +685,8 @@ var myFunc = function (link) {
    
   
    
+  
+   
     <section class="3u">
       <h6><a href="/ecuador/la-grecia-de-sudamerica.html">La Grecia de Sudamérica</a></h6>
       <a href="/ecuador/la-grecia-de-sudamerica.html" class="image full"><img src="/assets/images/Teaser-2016-01-17.png" alt="" height="185" width="30"></a>
@@ -699,6 +750,8 @@ var myFunc = function (link) {
 <ul class="codinfox-category-list">
 
 <div class="row">
+  
+   
   
    
   
@@ -869,6 +922,8 @@ var myFunc = function (link) {
    
   
    
+  
+   
     <section class="3u">
       <h6><a href="/peru/Cancha-BCRP.html">Economía peruana: la pelota esta del lado del Banco Central</a></h6>
       <a href="/peru/Cancha-BCRP.html" class="image full"><img src="/assets/images/Teaser-2017-07-12.png" alt="" height="185" width="30"></a>
@@ -1000,6 +1055,8 @@ var myFunc = function (link) {
    
   
    
+  
+   
     <section class="3u">
       <h6><a href="/venezuela/Venezuela-la-bancarrota.html">Venezuela: La Bancarrota Total</a></h6>
       <a href="/venezuela/Venezuela-la-bancarrota.html" class="image full"><img src="/assets/images/Teaser-2016-06-01.png" alt="" height="185" width="30"></a>
@@ -1075,6 +1132,17 @@ var myFunc = function (link) {
 
 <!-- <h2 id="no-category">No Category</h2>
 <ul class="codinfox-category-list">
+  
+  
+  <li>
+    <h3>
+      <a href="/bolivia/macroeconomia-y-pandemia.html">
+        <strong>Rigideces Nominales y Ajuste Macroeconomico</strong> |
+        <small>26 Apr 2020</small> | 
+      </a>
+    </h3>
+  </li>
+  
   
   
   <li>
@@ -1233,7 +1301,7 @@ var myFunc = function (link) {
   
   <li>
     <h3>
-      <a href="/bolivia/productividad-y-crecimiento-40-anos.html">
+      <a href="/bolivia/Productividad-y-crecimiento-40-anos.html">
         <strong>Productividad y Crecimiento: 40 años perdidos en Bolivia</strong> |
         <small>23 Jul 2016</small> | 
       </a>
@@ -1321,7 +1389,7 @@ var myFunc = function (link) {
   
   <li>
     <h3>
-      <a href="/bolivia/crecimiento-econo-mico-en-2016.html">
+      <a href="/bolivia/crecimiento-econ%C3%B3mico-en-2016.html">
         <strong>Crecimiento economico en 2016: ¿Quién tiene la razón?</strong> |
         <small>11 Jan 2016</small> | 
       </a>

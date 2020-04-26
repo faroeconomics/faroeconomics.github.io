@@ -39,6 +39,44 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 
 </script>
 
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: [
+      "MathMenu.js",
+      "MathZoom.js",
+      "AssistiveMML.js",
+      "a11y/accessibility-menu.js"
+    ],
+    jax: ["input/TeX", "output/CommonHTML"],
+    TeX: {
+      extensions: [
+        "AMSmath.js",
+        "AMSsymbols.js",
+        "noErrors.js",
+        "noUndefined.js",
+      ]
+    }
+  });
+  MathJax.Hub.Register.StartupHook("TeX Jax Ready",function () {
+    var TEX = MathJax.InputJax.TeX;
+    var COLS = function (W) {
+      var WW = [];
+      for (var i = 0, m = W.length; i < m; i++)
+        {WW[i] = TEX.Parse.prototype.Em(W[i])}
+      return WW.join(" ");
+    };
+    TEX.Definitions.Add({
+      environment: {
+        psmallmatrix: ['Array',null,'(',')','c',COLS([1/3]),".2em",'S',1],
+      }
+    });
+  });
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js">
+</script>
+
+
 
 <body>
 
@@ -86,6 +124,18 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 		<div class="row">
 
 			
+				<!-- <li><a href="/bolivia/macroeconomia-y-pandemia.html">Rigideces Nominales y Ajuste Macroeconomico</a></li> -->
+
+				<section class="4u">
+					<a href="/bolivia/macroeconomia-y-pandemia.html" class="image full"><img src="/assets/images/Teaser-2016-11-13.jpg" alt=""></a>
+					<header>
+						<ul><p>
+							<a href="/bolivia/macroeconomia-y-pandemia.html">Rigideces Nominales y Ajuste Macroeconomico</a></ul>
+						</p>
+					</header>
+					<ul>No hay duda de que aplacar la crisis sanitaria causada por la pandemia del coronavirus es la principal preocupación en Bolivia y en el mundo. Hay muchos comentario e ideas sobre como enfrentar los efectos económicos. Por ejemplo, algunos analistas, ¿es mejor reducir impuestos y contraer el gasto publico, o...</ul>
+				</section>
+			
 				<!-- <li><a href="/bolivia/macroeconomia-y-pandemia.html">Política Macroeconómica Durante una Pandemia</a></li> -->
 
 				<section class="4u">
@@ -95,7 +145,7 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 							<a href="/bolivia/macroeconomia-y-pandemia.html">Política Macroeconómica Durante una Pandemia</a></ul>
 						</p>
 					</header>
-					<ul>No hay duda de que aplacar la crisis sanitaria causada por la pandemia del coronavirus es la principal preocupación en Bolivia y en el mundo. Hay mucho comentario y una plétora de ideas sobre como enfrentar los efectos económicos. Por ejemplo, ¿es mejor reducir impuestos y contraer el gasto publico,...</ul>
+					<ul>No hay duda de que aplacar la crisis sanitaria causada por la pandemia del coronavirus es la principal preocupación en Bolivia y en el mundo. Hay muchos comentario e ideas sobre como enfrentar los efectos económicos. Por ejemplo, algunos analistas, ¿es mejor reducir impuestos y contraer el gasto publico, o...</ul>
 				</section>
 			
 				<!-- <li><a href="/bolivia/petroleo-y-crecimiento.html">La Implicancia del Precio del Petróleo en la Economía Boliviana</a></li> -->
@@ -108,18 +158,6 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 						</p>
 					</header>
 					<ul>No cabe duda que el precio internacional del petróleo es una variable exógena significativa para las economías a nivel mundial. Sin embargo, el principal problema radica en que el precio de este commodity ha experimentado muchas fluctuaciones a lo largo del tiempo. En este sentido, este artículo analiza si el...</ul>
-				</section>
-			
-				<!-- <li><a href="/argentina/Argentina.html">La economía ahogada por el estado: el caso de Argentina</a></li> -->
-
-				<section class="4u">
-					<a href="/argentina/Argentina.html" class="image full"><img src="/assets/images/Teaser-2017-07-13.png" alt=""></a>
-					<header>
-						<ul><p>
-							<a href="/argentina/Argentina.html">La economía ahogada por el estado: el caso de Argentina</a></ul>
-						</p>
-					</header>
-					<ul>Lo que sí está claro es que una economía ahogada en impuestos no puede despegar, por lo que cualquier reforma que tenga como objetivo impulsar el crecimiento debe contemplar la reducción o eliminación de impuestos que generen grandes costos para la economía y contemplar un recorte del gasto público. De...</ul>
 				</section>
 			
 

@@ -39,6 +39,44 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 
 </script>
 
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: [
+      "MathMenu.js",
+      "MathZoom.js",
+      "AssistiveMML.js",
+      "a11y/accessibility-menu.js"
+    ],
+    jax: ["input/TeX", "output/CommonHTML"],
+    TeX: {
+      extensions: [
+        "AMSmath.js",
+        "AMSsymbols.js",
+        "noErrors.js",
+        "noUndefined.js",
+      ]
+    }
+  });
+  MathJax.Hub.Register.StartupHook("TeX Jax Ready",function () {
+    var TEX = MathJax.InputJax.TeX;
+    var COLS = function (W) {
+      var WW = [];
+      for (var i = 0, m = W.length; i < m; i++)
+        {WW[i] = TEX.Parse.prototype.Em(W[i])}
+      return WW.join(" ");
+    };
+    TEX.Definitions.Add({
+      environment: {
+        psmallmatrix: ['Array',null,'(',')','c',COLS([1/3]),".2em",'S',1],
+      }
+    });
+  });
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js">
+</script>
+
+
 
 <body>
 
@@ -74,7 +112,7 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 		<div id="content" class="container">
 			<div class="row">
 				<section class="8u -2u">
-					<a href="/bolivia/productividad-y-crecimiento-40-anos.html" class="image full"><img src="/assets/images/Teaser-2016-07-23.png" alt=""></a>
+					<a href="/bolivia/Productividad-y-crecimiento-40-anos.html" class="image full"><img src="/assets/images/Teaser-2016-07-23.png" alt=""></a>
 					<header>
 						<h2>Productividad y Crecimiento: 40 años perdidos en Bolivia</h2>
 					</header>
@@ -129,7 +167,7 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 		<!-- Content  -->
 		<div id="content" class="8u skel-cell-important">
 				<section class=article>
-					<!-- <a href="/bolivia/productividad-y-crecimiento-40-anos.html" class="image full"><img src="/assets/images/Teaser-2016-07-23.png" alt=""></a> -->
+					<!-- <a href="/bolivia/Productividad-y-crecimiento-40-anos.html" class="image full"><img src="/assets/images/Teaser-2016-07-23.png" alt=""></a> -->
 					<header>
 						<h2>Productividad y Crecimiento: 40 años perdidos en Bolivia</h2>
 
@@ -164,10 +202,10 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
   <header>
     Comparte en:
   </header>
-      <a href="https://twitter.com/intent/tweet?text=Productividad y Crecimiento: 40 años perdidos en Bolivia&url=http://localhost:4000/bolivia/productividad-y-crecimiento-40-anos.html&via=Faro_economics&related=Faro_economics" class="fa fa-twitter-square" rel="nofollow" target="_blank" title="Share on Twitter"></a>
-      <a href="https://facebook.com/sharer.php?u=Productividad y Crecimiento: 40 años perdidos en Bolivia&http://localhost:4000/bolivia/productividad-y-crecimiento-40-anos.html" class="fa fa-facebook-square" rel="nofollow" target="_blank" title="Share on Facebook"></a>
-      <a href="https://plus.google.com/share?url=Productividad y Crecimiento: 40 años perdidos en Bolivia&http://localhost:4000/bolivia/productividad-y-crecimiento-40-anos.html" class="fa fa-google-plus-square" rel="nofollow" target="_blank" title="Share on Google+"></a>
-      <a href="whatsapp://send?text=http://localhost:4000/bolivia/productividad-y-crecimiento-40-anos.html" class="fa fa-whatsapp" rel="nofollow" target="_blank" title="Share on Whatsapp"></a>
+      <a href="https://twitter.com/intent/tweet?text=Productividad y Crecimiento: 40 años perdidos en Bolivia&url=http://localhost:4000/bolivia/Productividad-y-crecimiento-40-anos.html&via=Faro_economics&related=Faro_economics" class="fa fa-twitter-square" rel="nofollow" target="_blank" title="Share on Twitter"></a>
+      <a href="https://facebook.com/sharer.php?u=Productividad y Crecimiento: 40 años perdidos en Bolivia&http://localhost:4000/bolivia/Productividad-y-crecimiento-40-anos.html" class="fa fa-facebook-square" rel="nofollow" target="_blank" title="Share on Facebook"></a>
+      <a href="https://plus.google.com/share?url=Productividad y Crecimiento: 40 años perdidos en Bolivia&http://localhost:4000/bolivia/Productividad-y-crecimiento-40-anos.html" class="fa fa-google-plus-square" rel="nofollow" target="_blank" title="Share on Google+"></a>
+      <a href="whatsapp://send?text=http://localhost:4000/bolivia/Productividad-y-crecimiento-40-anos.html" class="fa fa-whatsapp" rel="nofollow" target="_blank" title="Share on Whatsapp"></a>
 </section>
 </div>
 </h4> -->
@@ -228,10 +266,10 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 	    <h2>Comparte en:</h2>
 	  </header>
 		<h2>
-			<a href="https://twitter.com/intent/tweet?text=Productividad y Crecimiento: 40 años perdidos en Bolivia&url=http://localhost:4000/bolivia/productividad-y-crecimiento-40-anos.html&via=Faro_economics&related=Faro_economics" class="fa fa-twitter-square" rel="nofollow" target="_blank" title="Share on Twitter"></a>
-			<a href="https://facebook.com/sharer.php?u=http://localhost:4000/bolivia/productividad-y-crecimiento-40-anos.html" class="fa fa-facebook-square" rel="nofollow" target="_blank" title="Share on Facebook"></a>
-			<a href="https://plus.google.com/share?url=http://localhost:4000/bolivia/productividad-y-crecimiento-40-anos.html" class="fa fa-google-plus-square" rel="nofollow" target="_blank" title="Share on Google+"></a>
-			<a href="whatsapp://send?text=http://localhost:4000/bolivia/productividad-y-crecimiento-40-anos.html" class="fa fa-whatsapp" rel="nofollow" target="_blank" title="Share on Whatsapp"></a>
+			<a href="https://twitter.com/intent/tweet?text=Productividad y Crecimiento: 40 años perdidos en Bolivia&url=http://localhost:4000/bolivia/Productividad-y-crecimiento-40-anos.html&via=Faro_economics&related=Faro_economics" class="fa fa-twitter-square" rel="nofollow" target="_blank" title="Share on Twitter"></a>
+			<a href="https://facebook.com/sharer.php?u=http://localhost:4000/bolivia/Productividad-y-crecimiento-40-anos.html" class="fa fa-facebook-square" rel="nofollow" target="_blank" title="Share on Facebook"></a>
+			<a href="https://plus.google.com/share?url=http://localhost:4000/bolivia/Productividad-y-crecimiento-40-anos.html" class="fa fa-google-plus-square" rel="nofollow" target="_blank" title="Share on Google+"></a>
+			<a href="whatsapp://send?text=http://localhost:4000/bolivia/Productividad-y-crecimiento-40-anos.html" class="fa fa-whatsapp" rel="nofollow" target="_blank" title="Share on Whatsapp"></a>
 		</h2>
 	</section>
 
@@ -250,14 +288,14 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 					    
 
 					    
-					      <li><a href="/bolivia/macroeconomia-y-pandemia.html">Política Macroeconómica Durante una Pandemia</a></li>
-								
-									
-										
-										<p class="posted"> 19 Apr 2020  |  Pablo Cuba Borda </p>
-										
-								
-					      
+
+					  
+
+					    
+					    
+
+					    
+
 					    
 
 					  
@@ -330,6 +368,33 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 										
 								
 					      
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+					      <li><a href="/internacional/Could-mining-countries.html">Could Mining Countries Take Advantage of Additional Resource Revenues? Evidence from a Commodity Super-Cycle</a></li>
+								
+									
+											<p class="posted"> 09 Apr 2017  |
+													
+															
+																	Carmen Cifuentes
+															
+													
+															
+																	y Óscar Perelló
+															
+													
+											</p>
+									
+								
+					      
 					        
 				</ul>
 			</section>
@@ -350,9 +415,19 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 		</header>
 		<ul class="default">
 		
+			<li><a href="/bolivia/macroeconomia-y-pandemia.html">Rigideces Nominales y Ajuste Macroeconomico</a>
+				<!-- <p class="posted">26 Apr 2020  |  pablocuba</p> -->
+				<!-- <p>No hay duda de que aplacar la crisis sanitaria causada por la pandemia del coronavirus es la principal preocupación en Bolivia y en el mundo. Hay muchos comentario e ideas sobre como enfrentar los efectos económicos. Por ejemplo, algunos analistas, ¿es mejor reducir impuestos y contraer el gasto publico, o deberíamos mas bien flexibilizar las condiciones financieras y realizar políticas fiscales y monetarias expansivas? Esta nota provee ejemplos en un marco analítico simple para poder pensar en el diseño de la política macroeconómica.</p> -->
+			</li>
+			
+			
+				
+				<p class="posted"> 26 Apr 2020  |  Pablo Cuba Borda </p>
+			
+		
 			<li><a href="/bolivia/macroeconomia-y-pandemia.html">Política Macroeconómica Durante una Pandemia</a>
 				<!-- <p class="posted">19 Apr 2020  |  pablocuba</p> -->
-				<!-- <p>No hay duda de que aplacar la crisis sanitaria causada por la pandemia del coronavirus es la principal preocupación en Bolivia y en el mundo. Hay mucho comentario y una plétora de ideas sobre como enfrentar los efectos económicos. Por ejemplo, ¿es mejor reducir impuestos y contraer el gasto publico, o deberíamos mas bien flexibilizar las condiciones financieras y realizar políticas fiscales y monetarias expansivas? Esta nota provee ejemplos en un marco analítico simple para poder pensar en el diseño de la política macroeconómica.</p> -->
+				<!-- <p>No hay duda de que aplacar la crisis sanitaria causada por la pandemia del coronavirus es la principal preocupación en Bolivia y en el mundo. Hay muchos comentario e ideas sobre como enfrentar los efectos económicos. Por ejemplo, algunos analistas, ¿es mejor reducir impuestos y contraer el gasto publico, o deberíamos mas bien flexibilizar las condiciones financieras y realizar políticas fiscales y monetarias expansivas? Esta nota provee ejemplos en un marco analítico simple para poder pensar en el diseño de la política macroeconómica.</p> -->
 			</li>
 			
 			
@@ -380,16 +455,6 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 				<p class="posted"> 13 Jul 2017  |  Agustin Garcia </p>
 			
 		
-			<li><a href="/peru/Cancha-BCRP.html">Economía peruana: la pelota esta del lado del Banco Central</a>
-				<!-- <p class="posted">12 Jul 2017  |  jsalinas</p> -->
-				<!-- <p>A inicios de año, las esperanzas de la región estaban puestas en el dinamismo esperado para la economía peruana. Sin embargo, en un par de meses, la situación cambió drásticamente. Así, mientras a principios de año las expectativas de crecimiento para 2017 estaban en torno a 4,1%, a la fecha están cercanas a 3,0%.</p> -->
-			</li>
-			
-			
-				
-				<p class="posted"> 12 Jul 2017  |  Javier Salinas </p>
-			
-		
 		</ul>
 	</section>
 
@@ -398,10 +463,10 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 			<h2>Comparte en:</h2>
 		</header>
 		<h2>
-			<a href="https://twitter.com/intent/tweet?text=Productividad y Crecimiento: 40 años perdidos en Bolivia&url=http://localhost:4000/bolivia/productividad-y-crecimiento-40-anos.html&via=Faro_economics&related=Faro_economics" class="fa fa-twitter-square" rel="nofollow" target="_blank" title="Share on Twitter"></a>
-			<a href="https://facebook.com/sharer.php?u=http://localhost:4000/bolivia/productividad-y-crecimiento-40-anos.html" class="fa fa-facebook-square" rel="nofollow" target="_blank" title="Share on Facebook"></a>
-			<a href="https://plus.google.com/share?url=http://localhost:4000/bolivia/productividad-y-crecimiento-40-anos.html" class="fa fa-google-plus-square" rel="nofollow" target="_blank" title="Share on Google+"></a>
-			<a href="whatsapp://send?text=http://localhost:4000/bolivia/productividad-y-crecimiento-40-anos.html" class="fa fa-whatsapp" rel="nofollow" target="_blank" title="Share on Whatsapp"></a>
+			<a href="https://twitter.com/intent/tweet?text=Productividad y Crecimiento: 40 años perdidos en Bolivia&url=http://localhost:4000/bolivia/Productividad-y-crecimiento-40-anos.html&via=Faro_economics&related=Faro_economics" class="fa fa-twitter-square" rel="nofollow" target="_blank" title="Share on Twitter"></a>
+			<a href="https://facebook.com/sharer.php?u=http://localhost:4000/bolivia/Productividad-y-crecimiento-40-anos.html" class="fa fa-facebook-square" rel="nofollow" target="_blank" title="Share on Facebook"></a>
+			<a href="https://plus.google.com/share?url=http://localhost:4000/bolivia/Productividad-y-crecimiento-40-anos.html" class="fa fa-google-plus-square" rel="nofollow" target="_blank" title="Share on Google+"></a>
+			<a href="whatsapp://send?text=http://localhost:4000/bolivia/Productividad-y-crecimiento-40-anos.html" class="fa fa-whatsapp" rel="nofollow" target="_blank" title="Share on Whatsapp"></a>
 		</h2>
 	</section>
 
