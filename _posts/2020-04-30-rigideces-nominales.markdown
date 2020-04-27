@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rigideces Nominales y Ajuste Macroeconomico'
-date: '2020-04-26T07:32:00.002-08:00'
+date: '2020-04-30T07:32:00.002-08:00'
 authors:
 - pablocuba
 featured: images/Teaser-2016-11-13.jpg
