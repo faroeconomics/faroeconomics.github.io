@@ -16,12 +16,23 @@ excerpt: No hay duda de que aplacar la crisis sanitaria causada por la pandemia 
 
 La baja flexibilidad del mercado laboral es fuente de intenso debate. Una combinacion entre una desaceleracion economica sumada a costos laborales elevados es una receta segura para una crisis de desempleo. 
 
+
+Al igual que otros paises, Bolivia experimento un periodo de condiciones externas favorables que duro aproximadamente de 2006 a 2014. La bonanza junto con la adopcion implicita de un tipo de cambio fijo, se tradujo en una apreaciacion del tipo de cambio real y un crecimiento sostenido en el salario real y nominal. 
+
+Cual 
+
+
+
+The large capital inflows experienced by countries in the periphery of the euro- zone during the boom years of 2000 to 2008 lead to sizeable increases in nominal hourly wages and the relative price of nontradables in terms of tradables.
+
 Por ejemplo, 
 
 
 $$
+\begin{align}
 S(p;W/(P^{*M}\bar{E})) \\
 D(p;r,tot) \\
+\end{align}
 $$
 
 
