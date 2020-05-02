@@ -39,6 +39,7 @@ Vale la pena comparar la evolución del número de reproducción a nivel naciona
 En síntesis, las medidas para mitigar la epidemia funcionan. Sin embargo, la falta de acceso a pruebas y la calidad de la información sugieren que Bolivia enfrenta mayor incertidumbre para guiar el camino a la apertura.  El análisis acá presentado solo pretende ser ilustrativo y debe tomarse con precaución. El dictamen sobre los modelos apropiados y la efectividad de las medidas recae en manos de los expertos en el campo de la epidemiologia y la salud pública. La experiencia de otros países muestra que mayor conocimiento sobre el progreso y el alcance de la epidemia son una herramienta vital para reducir la incertidumbre en la toma de decisiones. Finalmente, saber quien está infectado genera una externalidad positiva que necesitamos utilizar para ganar la batalla al coronavirus.
 
 
+
 __Liberación de responsabilidad__: Las opiniones acá presentadas son totalmente personales y no implican ni representan ninguna de las instituciones con las que estoy o estuve afiliado.
 
 __Referencias:__
