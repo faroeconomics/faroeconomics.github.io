@@ -216,4 +216,8 @@
 <url>
 <loc>http://localhost:4000/blog/tag</loc>
 </url>
+<url>
+<loc>http://localhost:4000/assets/images/image004.pdf</loc>
+<lastmod>2020-05-02T16:19:30-04:00</lastmod>
+</url>
 </urlset>
