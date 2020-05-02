@@ -1,0 +1,861 @@
+<!DOCTYPE HTML>
+<!--
+Linear by TEMPLATED
+templated.co @templatedco
+Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+<head>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+
+	<title>El Faro</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,700,500,900' rel='stylesheet' type='text/css'>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="/assets/js/skel.min.js"></script>
+	<script src="/assets/js/skel-panels.min.js"></script>
+	<script src="/assets/js/init.js"></script>
+	<noscript>
+		<link rel="stylesheet" href="/assets/css/skel-noscript.css" />
+		<link rel="stylesheet" href="/assets/css/style.css" />
+		<link rel="stylesheet" href="/assets/css/style-desktop.css" />
+	</noscript>
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+</head>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80158222-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: [
+      "MathMenu.js",
+      "MathZoom.js",
+      "AssistiveMML.js",
+      "a11y/accessibility-menu.js"
+    ],
+    jax: ["input/TeX", "output/CommonHTML"],
+    TeX: {
+      extensions: [
+        "AMSmath.js",
+        "AMSsymbols.js",
+        "noErrors.js",
+        "noUndefined.js",
+      ]
+    }
+  });
+  MathJax.Hub.Register.StartupHook("TeX Jax Ready",function () {
+    var TEX = MathJax.InputJax.TeX;
+    var COLS = function (W) {
+      var WW = [];
+      for (var i = 0, m = W.length; i < m; i++)
+        {WW[i] = TEX.Parse.prototype.Em(W[i])}
+      return WW.join(" ");
+    };
+    TEX.Definitions.Add({
+      environment: {
+        psmallmatrix: ['Array',null,'(',')','c',COLS([1/3]),".2em",'S',1],
+      }
+    });
+  });
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js">
+</script>
+
+
+
+<body>
+
+	<!-- Header -->
+	<div id="header">
+		<div id="nav-wrapper">
+	<!-- Nav -->
+	<nav id="nav">
+		<ul>
+			
+			<li ><a href="/index.html">Inicio</a></li>
+			<li ><a href="/blog">Artículos</a></li>
+			<!-- <li ><a href="/left-sidebar.html">Datos</a></li> -->
+			<li ><a href="/blog/cat.html">Países</a></li>
+			<li ><a href="/blog/tag.html">Temas</a></li>
+			<!-- <li ><a href="/no-sidebar.html">No Sidebar</a></li> -->
+		</ul>
+	</nav>
+</div>
+
+		<div class="container">
+
+			<!-- Logo -->
+			<div id="logo">
+				<h1><a href="#">El Faro</a></h1>
+				<span class="tag">Un Mundo de Ideas</span>
+			</div>
+		</div>
+	</div>
+	<!-- Header -->
+	<!-- Main -->
+	<!-- <div id="main">
+		<div id="content" class="container">
+			<div class="row">
+				<section class="8u -2u">
+					<a href="/bolivia/monitoreo-epidemia.html" class="image full"><img src="/assets/images/Teaser-epidemia.jpg" alt=""></a>
+					<header>
+						<h2>Una Letra para Monitorear la Epidemia en Bolivia</h2>
+					</header>
+					<p>Bolivia, al igual que otros países, va preparando planes para levantar las medidas de mitigación empleadas durante varias semanas para frenar la epidemia del coronavirus. ¿Cómo guiar la apertura en términos de alcance y velocidad? La respuesta no es clara, pero el riesgo es evidente. Por un lado, reactivar la actividad económica y social muy pronto aumenta la posibilidad de una segunda ola de infecciones y decesos. Por otro lado, ir muy lento y continuar con cuarentenas generalizadas y estrictas implica un costo elevado en términos de bienestar social y económico. Para guiar el camino se necesitan datos de la progresión de infecciones junto a modelos matemáticos y estadísticos para analizar la evolución de la epidemia. A continuación, se ilustra un modelo aplicado a Bolivia que podría complementar la información existente y ayudar a la toma de decisiones.</p>
+
+<p>La base del análisis epidemiológico moderno depende de una cantidad conocida como el número de reproducción, abreviado con la letra <script type="math/tex">R</script>. Este indicador representa el número de contagios derivados a partir de una persona infectada. Cuando se calcula al inicio de una epidemia, se conoce como número de reproducción básico, <script type="math/tex">R_o</script>, y está asociado a la fuerza inicial de la epidemia cuando toda una población es susceptible de contraer la enfermedad por ausencia de inmunidad natural o la falta de una vacuna.</p>
+
+<p>En términos simples, si <script type="math/tex">R</script> es mayor a 1, existe una epidemia en curso y la enfermedad se propaga rápidamente en la población. Mientras que si <script type="math/tex">R</script> es menor que 1, la cantidad de nuevos casos disminuye rápidamente. Una vez que la dinámica de la epidemia entra en acción las medidas de mitigación se traducen en reducir R tanto como sea posible y las medidas de contención se traducen en mantener <script type="math/tex">R</script> a un nivel menor a 1 de manera sostenida para detener la epidemia. Por tanto, para entender el cambio en la dinámica de contagio y juzgar la efectividad de medidas de mitigación y contención lo que nos interesa es la evolución del número de reproducción efectivo, <script type="math/tex">R_t</script>, durante el curso de la epidemia.</p>
+
+<p>Por ejemplo, los modelos de Cori et.al. (2013)<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> y Thompson et.al. (2019)<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>, combinan información sobre la incidencia diaria de una epidemia con un modelo probabilístico de la transmisibilidad de la enfermedad. La transmisibilidad, también conocida como intervalo serial, se resume a través de una distribución probabilística que se estima usando datos del tiempo de contagio entre dos casos relacionados. Si bien, información sobre el intervalo serial no está disponible para Bolivia, se puede usar estimados observados en otros países.<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup></p>
+
+<p>El siguiente gráfico muestra los resultados de la estimación de <script type="math/tex">R_t</script> usando datos diarios de nuevos casos reportados entre el 21 de marzo y el 29 de abril en los tres principales departamentos de Bolivia: Santa Cruz, La Paz y Cochabamba. Los primeros ocho días de la muestra se utilizan para inicializar la estimación y los resultados se reportan a partir del 30 de marzo. Las líneas más oscuras corresponden a la media del valor estimado y las áreas sombrados reflejan la incertidumbre sobre el valor estimado.</p>
+
+<p><img src="/assets/images/image003.jpg" alt="Figura1" class="img-responsive" /></p>
+
+<p>Los resultados se pueden resumir de la siguiente manera. Primero, el número de reproducción estimado al inicio de la muestra es aproximadamente igual a 2 en los tres departamentos. Consistente con el inicio de la dinámica exponencial de la epidemia y con un rango entre 1.25-3.5, un rango similar al estimado en el inicio del brote de coronavirus en otros países. Segundo, se observa una reducción en el número de reproducción efectivo a lo largo de la muestra, lo que es consistente con las medidas de aislamiento y la limitación al flujo interno y externo de personas que se impuso desde la segunda mitad de marzo. Si bien existe incertidumbre en la estimación, los resultados sugieren que las medidas de mitigación funcionan en la dirección esperada. Tercero, si bien se observa progreso en los tres departamentos, los resultados también muestran que la epidemia no está del todo contenida. Recordemos que lo que se necesita es mantener <script type="math/tex">R_t</script> menor a 1. En dicho aspecto, se observan diferencias marcadas en la experiencia de los diferentes departamentos y un incremento en el numero de reproducción hacia el final de la muestra.</p>
+
+<p>Vale la pena comparar la evolución del número de reproducción a nivel nacional con el de otros países para tratar de inferir algunas lecciones de su experiencia. El siguiente gráfico muestra los resultados de la estimación usando datos para Corea del Sur, Chile y Bolivia asumiendo la misma distribución para el intervalo serial. Se puede observar que, los primeros dos países, el número de reproducción se logró suprimir de manera bastante rápida. En el caso de Corea del Sur, el número de reproducción se mantiene menor a 1 y en el caso de Chile esta muy cerca de dicho umbral. Tanto Coral del Sur como Chile, han implementado una gran cantidad de pruebas de detección y desplegado muchos recursos para hacer seguimiento a las nuevas infecciones. Al tener mejor seguimiento de los casos, es posible que la información de monitoreo epidemiológico se reflejé en una menor incertidumbre alrededor de la estimación del número de reproducción. En contraste, la incertidumbre de las estimaciones para Bolivia puede reflejar una menor calidad de los datos reportados, limitaciones en el sistema de monitoreo y la falta de pruebas para poder identificar nuevos casos.  Adicionalmente, el acceso a pruebas no solo ayuda con la calidad del monitoreo desde el punto de vista epidemiológico, sino que también modifica el comportamiento de las personas. Aquellos que saben que están enfermos actúan de una manera diferente comparada con los que tienen duda de estar infectados.</p>
+
+<p><img src="/assets/images/image004.jpg" alt="Figura2" class="img-responsive" /></p>
+
+<p>En síntesis, las medidas para mitigar la epidemia funcionan. Sin embargo, la falta de acceso a pruebas y la calidad de la información sugieren que Bolivia enfrenta mayor incertidumbre para guiar el camino a la apertura.  El análisis acá presentado solo pretende ser ilustrativo y debe tomarse con precaución. El dictamen sobre los modelos apropiados y la efectividad de las medidas recae en manos de los expertos en el campo de la epidemiologia y la salud pública. La experiencia de otros países muestra que mayor conocimiento sobre el progreso y el alcance de la epidemia son una herramienta vital para reducir la incertidumbre en la toma de decisiones. Finalmente, saber quien está infectado genera una externalidad positiva que necesitamos utilizar para ganar la batalla al coronavirus.</p>
+
+<p><strong>Liberación de responsabilidad</strong>: Las opiniones acá presentadas son totalmente personales y no implican ni representan ninguna de las instituciones con las que estoy o estuve afiliado.</p>
+
+<p><strong>Referencias:</strong></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>[1] Anne Cori, Neil M. Ferguson, Christophe Fraser and Simon Cauchemez, (2013). <strong>“A New Framework and Software to Estimate Time-Varying Reproduction Numbers During Epidemics”</strong>. American Journal of Epidemiology, Volume 178, Issue 9. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>[2] R.N. Thompson, J.E. Stockwin, R.D. van Gaalen, J.A. Polonsky, Z.N. Kamvar, P.A. Demarsh, E. Dahlqwist, S. Li, E. Miguel, T. Jombart, J. Lessler, S. Cauchemez, A. Cori, (2019).<strong>“Improved inference of time-varying reproduction numbers during infectious disease outbreaks”</strong>. Epidemics (29) 2019. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>[3] Hiroshi Nishiura, Natalie M. Linton, Andrei R. Akhmetzhanov, (2020).<strong>“Serial interval of novel coronavirus (COVID-19) infections”</strong>. International Journal of Infectious Diseases, Volume 93. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+				</section>
+			</div>
+		</div>
+	</div> -->
+
+
+
+	<div id="main">
+		<div class="container">
+			<div class="row">
+
+		<!-- Content  -->
+		<div id="content" class="8u skel-cell-important">
+				<section class=article>
+					<!-- <a href="/bolivia/monitoreo-epidemia.html" class="image full"><img src="/assets/images/Teaser-epidemia.jpg" alt=""></a> -->
+					<header>
+						<h2>Una Letra para Monitorear la Epidemia en Bolivia</h2>
+
+						<!--  Loop over authors in article -->
+						<span class="byline">
+							
+							
+							
+    							Pablo Cuba Borda
+									<!-- <a href="https://twitter.com/pcubab" itemprop="sameAs">
+            			<i class="fa fa-fw fa-twitter" aria-hidden="true"></i>
+          				</a> -->
+									<a href="https://twitter.com/pcubab">
+									  <i class="fa fa-twitter-square fa-lg"></i>
+									</a>
+									<p>
+									<h6>	</h6>
+									</p>
+
+
+							
+						 <p>
+							 <h4>29 Apr 2020 </h4>
+						 </p>
+
+					</span>
+
+					<!-- <h4><div class="4u">
+<section>
+  <header>
+    Comparte en:
+  </header>
+      <a href="https://twitter.com/intent/tweet?text=Una Letra para Monitorear la Epidemia en Bolivia&url=http://localhost:4000/bolivia/monitoreo-epidemia.html&via=Faro_economics&related=Faro_economics" class="fa fa-twitter-square" rel="nofollow" target="_blank" title="Share on Twitter"></a>
+      <a href="https://facebook.com/sharer.php?u=Una Letra para Monitorear la Epidemia en Bolivia&http://localhost:4000/bolivia/monitoreo-epidemia.html" class="fa fa-facebook-square" rel="nofollow" target="_blank" title="Share on Facebook"></a>
+      <a href="https://plus.google.com/share?url=Una Letra para Monitorear la Epidemia en Bolivia&http://localhost:4000/bolivia/monitoreo-epidemia.html" class="fa fa-google-plus-square" rel="nofollow" target="_blank" title="Share on Google+"></a>
+      <a href="whatsapp://send?text=http://localhost:4000/bolivia/monitoreo-epidemia.html" class="fa fa-whatsapp" rel="nofollow" target="_blank" title="Share on Whatsapp"></a>
+</section>
+</div>
+</h4> -->
+
+					</header>
+					<p>Bolivia, al igual que otros países, va preparando planes para levantar las medidas de mitigación empleadas durante varias semanas para frenar la epidemia del coronavirus. ¿Cómo guiar la apertura en términos de alcance y velocidad? La respuesta no es clara, pero el riesgo es evidente. Por un lado, reactivar la actividad económica y social muy pronto aumenta la posibilidad de una segunda ola de infecciones y decesos. Por otro lado, ir muy lento y continuar con cuarentenas generalizadas y estrictas implica un costo elevado en términos de bienestar social y económico. Para guiar el camino se necesitan datos de la progresión de infecciones junto a modelos matemáticos y estadísticos para analizar la evolución de la epidemia. A continuación, se ilustra un modelo aplicado a Bolivia que podría complementar la información existente y ayudar a la toma de decisiones.</p>
+
+<p>La base del análisis epidemiológico moderno depende de una cantidad conocida como el número de reproducción, abreviado con la letra <script type="math/tex">R</script>. Este indicador representa el número de contagios derivados a partir de una persona infectada. Cuando se calcula al inicio de una epidemia, se conoce como número de reproducción básico, <script type="math/tex">R_o</script>, y está asociado a la fuerza inicial de la epidemia cuando toda una población es susceptible de contraer la enfermedad por ausencia de inmunidad natural o la falta de una vacuna.</p>
+
+<p>En términos simples, si <script type="math/tex">R</script> es mayor a 1, existe una epidemia en curso y la enfermedad se propaga rápidamente en la población. Mientras que si <script type="math/tex">R</script> es menor que 1, la cantidad de nuevos casos disminuye rápidamente. Una vez que la dinámica de la epidemia entra en acción las medidas de mitigación se traducen en reducir R tanto como sea posible y las medidas de contención se traducen en mantener <script type="math/tex">R</script> a un nivel menor a 1 de manera sostenida para detener la epidemia. Por tanto, para entender el cambio en la dinámica de contagio y juzgar la efectividad de medidas de mitigación y contención lo que nos interesa es la evolución del número de reproducción efectivo, <script type="math/tex">R_t</script>, durante el curso de la epidemia.</p>
+
+<p>Por ejemplo, los modelos de Cori et.al. (2013)<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> y Thompson et.al. (2019)<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>, combinan información sobre la incidencia diaria de una epidemia con un modelo probabilístico de la transmisibilidad de la enfermedad. La transmisibilidad, también conocida como intervalo serial, se resume a través de una distribución probabilística que se estima usando datos del tiempo de contagio entre dos casos relacionados. Si bien, información sobre el intervalo serial no está disponible para Bolivia, se puede usar estimados observados en otros países.<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup></p>
+
+<p>El siguiente gráfico muestra los resultados de la estimación de <script type="math/tex">R_t</script> usando datos diarios de nuevos casos reportados entre el 21 de marzo y el 29 de abril en los tres principales departamentos de Bolivia: Santa Cruz, La Paz y Cochabamba. Los primeros ocho días de la muestra se utilizan para inicializar la estimación y los resultados se reportan a partir del 30 de marzo. Las líneas más oscuras corresponden a la media del valor estimado y las áreas sombrados reflejan la incertidumbre sobre el valor estimado.</p>
+
+<p><img src="/assets/images/image003.jpg" alt="Figura1" class="img-responsive" /></p>
+
+<p>Los resultados se pueden resumir de la siguiente manera. Primero, el número de reproducción estimado al inicio de la muestra es aproximadamente igual a 2 en los tres departamentos. Consistente con el inicio de la dinámica exponencial de la epidemia y con un rango entre 1.25-3.5, un rango similar al estimado en el inicio del brote de coronavirus en otros países. Segundo, se observa una reducción en el número de reproducción efectivo a lo largo de la muestra, lo que es consistente con las medidas de aislamiento y la limitación al flujo interno y externo de personas que se impuso desde la segunda mitad de marzo. Si bien existe incertidumbre en la estimación, los resultados sugieren que las medidas de mitigación funcionan en la dirección esperada. Tercero, si bien se observa progreso en los tres departamentos, los resultados también muestran que la epidemia no está del todo contenida. Recordemos que lo que se necesita es mantener <script type="math/tex">R_t</script> menor a 1. En dicho aspecto, se observan diferencias marcadas en la experiencia de los diferentes departamentos y un incremento en el numero de reproducción hacia el final de la muestra.</p>
+
+<p>Vale la pena comparar la evolución del número de reproducción a nivel nacional con el de otros países para tratar de inferir algunas lecciones de su experiencia. El siguiente gráfico muestra los resultados de la estimación usando datos para Corea del Sur, Chile y Bolivia asumiendo la misma distribución para el intervalo serial. Se puede observar que, los primeros dos países, el número de reproducción se logró suprimir de manera bastante rápida. En el caso de Corea del Sur, el número de reproducción se mantiene menor a 1 y en el caso de Chile esta muy cerca de dicho umbral. Tanto Coral del Sur como Chile, han implementado una gran cantidad de pruebas de detección y desplegado muchos recursos para hacer seguimiento a las nuevas infecciones. Al tener mejor seguimiento de los casos, es posible que la información de monitoreo epidemiológico se reflejé en una menor incertidumbre alrededor de la estimación del número de reproducción. En contraste, la incertidumbre de las estimaciones para Bolivia puede reflejar una menor calidad de los datos reportados, limitaciones en el sistema de monitoreo y la falta de pruebas para poder identificar nuevos casos.  Adicionalmente, el acceso a pruebas no solo ayuda con la calidad del monitoreo desde el punto de vista epidemiológico, sino que también modifica el comportamiento de las personas. Aquellos que saben que están enfermos actúan de una manera diferente comparada con los que tienen duda de estar infectados.</p>
+
+<p><img src="/assets/images/image004.jpg" alt="Figura2" class="img-responsive" /></p>
+
+<p>En síntesis, las medidas para mitigar la epidemia funcionan. Sin embargo, la falta de acceso a pruebas y la calidad de la información sugieren que Bolivia enfrenta mayor incertidumbre para guiar el camino a la apertura.  El análisis acá presentado solo pretende ser ilustrativo y debe tomarse con precaución. El dictamen sobre los modelos apropiados y la efectividad de las medidas recae en manos de los expertos en el campo de la epidemiologia y la salud pública. La experiencia de otros países muestra que mayor conocimiento sobre el progreso y el alcance de la epidemia son una herramienta vital para reducir la incertidumbre en la toma de decisiones. Finalmente, saber quien está infectado genera una externalidad positiva que necesitamos utilizar para ganar la batalla al coronavirus.</p>
+
+<p><strong>Liberación de responsabilidad</strong>: Las opiniones acá presentadas son totalmente personales y no implican ni representan ninguna de las instituciones con las que estoy o estuve afiliado.</p>
+
+<p><strong>Referencias:</strong></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>[1] Anne Cori, Neil M. Ferguson, Christophe Fraser and Simon Cauchemez, (2013). <strong>“A New Framework and Software to Estimate Time-Varying Reproduction Numbers During Epidemics”</strong>. American Journal of Epidemiology, Volume 178, Issue 9. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>[2] R.N. Thompson, J.E. Stockwin, R.D. van Gaalen, J.A. Polonsky, Z.N. Kamvar, P.A. Demarsh, E. Dahlqwist, S. Li, E. Miguel, T. Jombart, J. Lessler, S. Cauchemez, A. Cori, (2019).<strong>“Improved inference of time-varying reproduction numbers during infectious disease outbreaks”</strong>. Epidemics (29) 2019. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>[3] Hiroshi Nishiura, Natalie M. Linton, Andrei R. Akhmetzhanov, (2020).<strong>“Serial interval of novel coronavirus (COVID-19) infections”</strong>. International Journal of Infectious Diseases, Volume 93. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+				</section>
+			</div>
+
+			
+<!-- Sidebar -->
+
+
+
+
+
+
+<div id="sidebar" class="4u">
+
+	<section>
+	  <header>
+	    <h2>Comparte en:</h2>
+	  </header>
+		<h2>
+			<a href="https://twitter.com/intent/tweet?text=Una Letra para Monitorear la Epidemia en Bolivia&url=http://localhost:4000/bolivia/monitoreo-epidemia.html&via=Faro_economics&related=Faro_economics" class="fa fa-twitter-square" rel="nofollow" target="_blank" title="Share on Twitter"></a>
+			<a href="https://facebook.com/sharer.php?u=http://localhost:4000/bolivia/monitoreo-epidemia.html" class="fa fa-facebook-square" rel="nofollow" target="_blank" title="Share on Facebook"></a>
+			<a href="https://plus.google.com/share?url=http://localhost:4000/bolivia/monitoreo-epidemia.html" class="fa fa-google-plus-square" rel="nofollow" target="_blank" title="Share on Google+"></a>
+			<a href="whatsapp://send?text=http://localhost:4000/bolivia/monitoreo-epidemia.html" class="fa fa-whatsapp" rel="nofollow" target="_blank" title="Share on Whatsapp"></a>
+		</h2>
+	</section>
+
+	<section>
+		<header>
+			<h2>Temas relacionados</h2>
+		</header>
+		<div class="row">
+			<section class="12u skel-cell-important">
+				<ul class="default">
+					
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+					      <li><a href="/bolivia/macroeconomia-y-pandemia.html">Política Macroeconómica Durante una Pandemia</a></li>
+								
+									
+										
+										<p class="posted"> 19 Apr 2020  |  Pablo Cuba Borda </p>
+										
+								
+					      
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+
+					    
+					    
+
+					    
+
+					    
+
+					  
+				</ul>
+			</section>
+			<!-- <section class="6u">
+				<ul class="default">
+					<li><a href="#">Donec facilisis tempor</a></li>
+					<li><a href="#">Nulla convallis cursus</a></li>
+					<li><a href="#">Integer congue euismod</a></li>
+					<li><a href="#">Venenatis vulputate</a></li>
+					<li><a href="#">Morbi ligula volutpat</a></li>
+				</ul>
+			</section> -->
+		</div>
+	</section>
+	<section>
+		<header>
+			<h2>Posts recientes</h2>
+		</header>
+		<ul class="default">
+		
+			<li><a href="/bolivia/monitoreo-epidemia.html">Una Letra para Monitorear la Epidemia en Bolivia</a>
+				<!-- <p class="posted">29 Apr 2020  |  pablocuba</p> -->
+				<!-- <p>Bolivia, al igual que otros países, va preparando planes para levantar las medidas de mitigación empleadas durante varias semanas para frenar la epidemia del coronavirus. ¿Cómo guiar la apertura en términos de alcance y velocidad? La respuesta no es clara, pero el riesgo es evidente. Por un lado, reactivar la actividad económica y social muy pronto aumenta la posibilidad de una segunda ola de infecciones y decesos. Por otro lado, ir muy lento y continuar con cuarentenas generalizadas y estrictas implica un costo elevado en términos de bienestar social y económico.</p> -->
+			</li>
+			
+			
+				
+				<p class="posted"> 29 Apr 2020  |  Pablo Cuba Borda </p>
+			
+		
+			<li><a href="/bolivia/macroeconomia-y-pandemia.html">Política Macroeconómica Durante una Pandemia</a>
+				<!-- <p class="posted">19 Apr 2020  |  pablocuba</p> -->
+				<!-- <p>No hay duda de que aplacar la crisis sanitaria causada por la pandemia del coronavirus es la principal preocupación en Bolivia y en el mundo. Hay muchos comentario e ideas sobre como enfrentar los efectos económicos. Por ejemplo, algunos analistas, ¿es mejor reducir impuestos y contraer el gasto publico, o deberíamos mas bien flexibilizar las condiciones financieras y realizar políticas fiscales y monetarias expansivas? Esta nota provee ejemplos en un marco analítico simple para poder pensar en el diseño de la política macroeconómica.</p> -->
+			</li>
+			
+			
+				
+				<p class="posted"> 19 Apr 2020  |  Pablo Cuba Borda </p>
+			
+		
+			<li><a href="/bolivia/petroleo-y-crecimiento.html">La Implicancia del Precio del Petróleo en la Economía Boliviana</a>
+				<!-- <p class="posted">09 Mar 2018  |  fardiles</p> -->
+				<!-- <p>No cabe duda que el precio internacional del petróleo es una variable exógena significativa para las economías a nivel mundial. Sin embargo, el principal problema radica en que el precio de este commodity ha experimentado muchas fluctuaciones a lo largo del tiempo. En este sentido, este artículo analiza si el precio de este commodity ha llegado a impactar de algún modo a la economía boliviana, la cual por sus principales características tanto económicas como políticas ha generado un debate entre si efectivamente se tuvo un efecto o no.</p> -->
+			</li>
+			
+			
+				
+				<p class="posted"> 09 Mar 2018  |  Fabrizio Ardiles Decker </p>
+			
+		
+			<li><a href="/argentina/Argentina.html">La economía ahogada por el estado: el caso de Argentina</a>
+				<!-- <p class="posted">13 Jul 2017  |  agarcia</p> -->
+				<!-- <p>Lo que sí está claro es que una economía ahogada en impuestos no puede despegar, por lo que cualquier reforma que tenga como objetivo impulsar el crecimiento debe contemplar la reducción o eliminación de impuestos que generen grandes costos para la economía y contemplar un recorte del gasto público. De lo contrario se renunciaría a la recaudación y se recurriría a otras fuentes de financiamiento tales como la inflación o la deuda pública asegurando una crisis futura. Un presupuesto fiscal equilibrado y bajos impuestos son una fórmula que aseguran no sólo mayor crecimiento sino también mayor estabilidad. .</p> -->
+			</li>
+			
+			
+				
+				<p class="posted"> 13 Jul 2017  |  Agustin Garcia </p>
+			
+		
+		</ul>
+	</section>
+
+	<section>
+		<header>
+			<h2>Comparte en:</h2>
+		</header>
+		<h2>
+			<a href="https://twitter.com/intent/tweet?text=Una Letra para Monitorear la Epidemia en Bolivia&url=http://localhost:4000/bolivia/monitoreo-epidemia.html&via=Faro_economics&related=Faro_economics" class="fa fa-twitter-square" rel="nofollow" target="_blank" title="Share on Twitter"></a>
+			<a href="https://facebook.com/sharer.php?u=http://localhost:4000/bolivia/monitoreo-epidemia.html" class="fa fa-facebook-square" rel="nofollow" target="_blank" title="Share on Facebook"></a>
+			<a href="https://plus.google.com/share?url=http://localhost:4000/bolivia/monitoreo-epidemia.html" class="fa fa-google-plus-square" rel="nofollow" target="_blank" title="Share on Google+"></a>
+			<a href="whatsapp://send?text=http://localhost:4000/bolivia/monitoreo-epidemia.html" class="fa fa-whatsapp" rel="nofollow" target="_blank" title="Share on Whatsapp"></a>
+		</h2>
+	</section>
+
+</div>
+
+
+		</div>
+
+		<hr />
+			<h2>
+				<a href="/blog">Leer más artículos</a>
+			</h2r>
+
+	</div>
+	<!-- <h2>
+				<a href="/blog" class="button button-style1">Leer más artículos</a>
+	</h2> -->
+</div>
+
+
+	<!-- Tweet -->
+	<div id="tweet">
+		<div class="container">
+			<section>
+				<blockquote>&ldquo;A la realidad le gustan las simetrías y los leves anacronismos &rdquo; ― Jorge Luis Borges ― </blockquote>
+			</section>
+		</div>
+	</div>
+
+
+<!-- Footer -->
+<div id="footer">
+	<div class="container">
+		<section>
+			<header>
+				<h2>Siguenos</h2>
+				<span class="byline">Envia tus comentarios y sugerencias</span>
+			</header>
+			<ul class="contact">
+				<li><a target="_blank" href="https://twitter.com/Faro_economics" class="fa fa-twitter" data-show-count="false"><span>Twitter</span></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+				<li class="active"><a target="_blank" href="https://www.facebook.com/faroeconomics/" class="fa fa-facebook"><span>Facebook</span></a></li>
+				<!-- <li><a class="fa fa-envelope"><span>Email</span></a> -->
+				<script language="JavaScript" type="text/javascript">
+				var u1 = "faro";
+				var u2 = "economics"
+				var arr = "@";
+				var d = "gmail";
+				var dot = ".";
+				var t = "com";
+				document.write("<li><a href=" + "mail" + "to:" + u1 + "." + u2 + arr + d + dot + t
+				 +" class=" +"\"fa fa-envelope\"" +">" + "</a></li>" +"<br>");
+				</script></li>
+			</ul>
+	</div>
+</div>
+
+
+<!-- Copyright -->
+<div id="copyright">
+	<div class="container">
+		Faro Economics (2017) | Based on Cloud Cannon Template | Powered by Jekyll and Github Pages
+	</div>
+</div>
+
+</body>
+</html>
